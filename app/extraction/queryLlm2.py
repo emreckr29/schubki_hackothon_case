@@ -4,7 +4,7 @@ import json
 from openai import OpenAI
 from dotenv import load_dotenv
 
-from prompts import SYSTEM_PROMPT
+from extraction.prompts import SYSTEM_PROMPT
 
 load_dotenv()
 
