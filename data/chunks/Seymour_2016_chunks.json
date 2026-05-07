@@ -1,0 +1,618 @@
+[
+  {
+    "chunk_id": "91efaa4d-ff7a-4ebf-9a33-b1148e162a4c",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 1,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. Assessment of Clinical Criteria for Sepsis For the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) Christopher W. Seymour, MD, MSc; Vincent X. Liu, MD, MSc; Theodore J. Iwashyna, MD, PhD; Frank M. Brunkhorst, MD; Thomas D. Rea, MD, MPH; André Scherag, PhD; Gordon Rubenfeld, MD, MSc; Jeremy M. Kahn, MD, MSc; Manu Shankar-Hari, MD, MSc; Mervyn Singer, MD, FRCP; Clifford S. Deutschman, MD, MS; Gabriel J. Escobar, MD; Derek C. Angus, MD, MPH IMPORTANCE The Third International Consensus Definitions Task Force defined sepsis as “life-threatening organ dysfunction due to a dysregulated host response to infection.” The performance of clinical criteria for this sepsis definition is unknown. OBJECTIVE To evaluate the validity of clinical criteria to identify patients with suspected infection who are at risk of sepsis. DESIGN, SETTINGS, AND POPULATION Among 1.3 million electronic health record encounters from January 1, 2010, to December 31, 2012, at 12 hospitals in southwestern Pennsylvania, we identified those with suspected infection in whom to compare criteria. Confirmatory analyses were per",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "c396576b-9339-48a0-af12-649317fd4a20",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 1,
+    "text": "nters from January 1, 2010, to December 31, 2012, at 12 hospitals in southwestern Pennsylvania, we identified those with suspected infection in whom to compare criteria. Confirmatory analyses were performed in 4 data sets of 706 399 out-of-hospital and hospital encounters at 165 US and non-US hospitals ranging from January 1, 2008, until December 31, 2013. EXPOSURES Sequential[Sepsis-related]OrganFailureAssessment(SOFA)score,systemic inflammatoryresponsesyndrome(SIRS)criteria,LogisticOrganDysfunctionSystem(LODS) score,andanewmodelderivedusingmultivariablelogisticregressioninasplitsample,thequick Sequential[Sepsis-related]OrganFailureAssessment(qSOFA)score(range,0-3points,with1 pointeachforsystolichypotension[\u0002100mmHg],tachypnea[\u000322/min],oralteredmentation). MAIN OUTCOMES AND MEASURES For construct validity, pairwise agreement was assessed. For predictive validity, the discrimination for outcomes (primary: in-hospital mortality; secondary: in-hospital mortality or intensive care unit [ICU] length of stay \u00033 days) more common in sepsis than uncomplicated infection was determined. Results were expressed as the fold change in outcome over deciles of baseline risk of death and area unde",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "9ce7fabd-041d-41df-aede-46357448374c",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 1,
+    "text": "CU] length of stay \u00033 days) more common in sepsis than uncomplicated infection was determined. Results were expressed as the fold change in outcome over deciles of baseline risk of death and area under the receiver operating characteristic curve (AUROC). RESULTS In the primary cohort, 148 907 encounters had suspected infection (n = 74 453 derivation; n = 74 454 validation), of whom 6347 (4%) died. Among ICU encounters in the validation cohort (n = 7932 with suspected infection, of whom 1289 [16%] died), the predictive validity for in-hospital mortality was lower for SIRS (AUROC = 0.64; 95% CI, 0.62-0.66) and qSOFA (AUROC = 0.66; 95% CI, 0.64-0.68) vs SOFA (AUROC = 0.74; 95% CI, 0.73-0.76; P < .001 for both) or LODS (AUROC = 0.75; 95% CI, 0.73-0.76; P < .001 for both). Among non-ICU encounters in the validation cohort (n = 66 522 with suspected infection, of whom 1886 [3%] died), qSOFA had predictive validity (AUROC = 0.81; 95% CI, 0.80-0.82) that was greater than SOFA (AUROC = 0.79; 95% CI, 0.78-0.80; P < .001) and SIRS (AUROC = 0.76; 95% CI, 0.75-0.77; P < .001). Relative to qSOFA scores lower than 2, encounters with qSOFA scores of 2 or higher had a 3- to 14-fold increase in hosp",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "6fea770f-4b2d-4a31-8fc5-bf25cec1faf0",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 1,
+    "text": "% CI, 0.78-0.80; P < .001) and SIRS (AUROC = 0.76; 95% CI, 0.75-0.77; P < .001). Relative to qSOFA scores lower than 2, encounters with qSOFA scores of 2 or higher had a 3- to 14-fold increase in hospital mortality across baseline risk deciles. Findings were similar in external data sets and for the secondary outcome. CONCLUSIONS AND RELEVANCE Among ICU encounters with suspected infection, the predictive validity for in-hospital mortality of SOFA was not significantly different than the more complex LODS but was statistically greater than SIRS and qSOFA, supporting its use in clinical criteria for sepsis. Among encounters with suspected infection outside of the ICU, the predictive validity for in-hospital mortality of qSOFA was statistically greater than SOFA and SIRS, supporting its use as a prompt to consider possible sepsis. JAMA. 2016;315(8):762-774. doi:10.1001/jama.2016.0288 Corrected on May 24, 2016.r2016;315(8):762-774. doi:10.1001/jama.2016.0288 Editorial page 757 Author Audio Interview at jama.com Related articles pages 775 and 801 Supplemental content at jama.com Author Affiliations: Author affiliations are listed at the end of this article. Corresponding Author: Christo",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "8ec35008-88b4-46df-8a14-38d090a11459",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 1,
+    "text": " Interview at jama.com Related articles pages 775 and 801 Supplemental content at jama.com Author Affiliations: Author affiliations are listed at the end of this article. Corresponding Author: Christopher W. Seymour, MD, MSc, Departments of Critical Care Medicine and Emergency Medicine, University of Pittsburgh School of Medicine, Clinical Research, Investigation, and Systems Modeling of Acute Illness (CRISMA) Center, 3550 Terrace St, Scaife Hall, Ste 639, Pittsburgh, PA 15261 (seymourcw@upmc.edu). Research Original Investigation | CARING FOR THE CRITICALLY ILL PATIENT 762 (Reprinted) jama.com Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 697
+  },
+  {
+    "chunk_id": "a5cfc083-6b01-4c67-a611-a198e5eadd84",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 2,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. A lthough common and associated with high morbidity and mortality,1,2 sepsis and related terms remain diffi- cult to define. Two international consensus confer- encesin1991and2001usedexpertopiniontogeneratethecur- rent definitions.3,4 However, advances in the understanding of the pathobiology and appreciation that elements of the defini- tions may be outdated, inaccurate, or confusing prompted the European Society of Intensive Care Medicine and the Society of Critical Care Medicine to convene a Third International Con- sensus Task Force to re- examine the definitions. Like many syndromes, there is no “gold stan- dard” diagnostic test for sepsis. Therefore, the task force chose several meth- ods to evaluate the useful- ness of candidate clinical criteria, including clarity, reliability (consistency and availability), content validity (biologic ratio- nale and face validity), construct validity (agreement between similar measures), criterion validity (correlation with estab- lished measures and outcomes), burden, and timeliness. Un- like prior efforts, the task force used systematic literature re- views and empirical d",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "0b722bc8-e0a0-44ec-8570-fc08d2a16fb6",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 2,
+    "text": "easures), criterion validity (correlation with estab- lished measures and outcomes), burden, and timeliness. Un- like prior efforts, the task force used systematic literature re- views and empirical data analyses to complement expert deliberations. Based on clarity and content validity and after literature review and expert deliberation, the task force recommended elimination of the terms sepsis syndrome, septicemia, and se- vere sepsis and instead defined sepsis as “life-threatening or- gan dysfunction due to a dysregulated host response to infection.”5 Of note, the task force did not attempt to redefine infection. Rather, it next sought to generate recommenda- tions for clinical criteria that could be used to identify sepsis among patients with suspected or confirmed infection. The purpose of this study was to inform this step by analyzing data from several large hospital databases to explore the construct validity and criterion validity of existing and novel criteria as- sociated with sepsis. Methods This study was approved with waiver of informed consent by the institutional review boards of the University of Pittsburgh, Kaiser Permanente Northern California (KPNC), Veterans Ad",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "11795317-6841-4d00-a074-ce7d6be859d5",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 2,
+    "text": "th sepsis. Methods This study was approved with waiver of informed consent by the institutional review boards of the University of Pittsburgh, Kaiser Permanente Northern California (KPNC), Veterans Ad- ministration (VA) Ann Arbor Health System, Washington State Department of Health, King County Emergency Medical Ser- vices (KCEMS), University of Washington, and Jena University Hospital. Study Design, Setting, and Population A retrospective cohort study was performed among adult en- counters (age ≥18 years) with suspected infection. The pri- mary cohort was all hospital encounters from 2010 to 2012 at 12 community and academic hospitals in the UPMC health care system in southwestern Pennsylvania. The cohort included all medical and surgical encounters in the emergency depart- ment, hospital ward, and intensive care unit (ICU). We cre- ated a random split sample (50/50) from the UPMC cohort, the derivation cohort for developing new criteria, and the valida- tion cohort for assessment of new and existing criteria. We also studied 4 external data sets: (1) all inpatient encounters at 20 KPNC hospitals from 2009 to 2013; (2) all en- counters in 130 hospitals in the United States’ VA sys",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "dc84dd4e-d48f-4def-84d0-7bd41e7149a3",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 2,
+    "text": "new and existing criteria. We also studied 4 external data sets: (1) all inpatient encounters at 20 KPNC hospitals from 2009 to 2013; (2) all en- counters in 130 hospitals in the United States’ VA system from 2008 to 2010; (3) all nontrauma, nonarrest emergency medical services records from 5 advanced life support agen- cies from 2009-2010 transported to 14 hospitals with commu- nityinfectioninKingCounty,Washington(KCEMS)6;and(4)all patients from 2011-2012 at 1 German hospital enrolled with hospital-acquired infection in the ALERTS prospective cohort study.7 These cohorts were selected because they included pa- tientencountersfromdifferentphasesofacutecare(outofhos- pital, emergency department, hospital ward) and countries (United States and Germany) with different types of infection (community and nosocomial). The UPMC, KPNC, and VA data were obtained from the electronic health records (EHRs) of the respectivehealthsystems;KCEMSdatawereobtainedfromthe administrative out-of-hospital record; and ALERTS data were collected prospectively by research coordinators. Defining a Cohort With Suspected Infection For EHR data (UPMC, KPNC, and VA), the first episode of sus- pected infection wa",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "1d89c5cb-9ef2-4c89-952e-f83c470a1bf8",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 2,
+    "text": "cord; and ALERTS data were collected prospectively by research coordinators. Defining a Cohort With Suspected Infection For EHR data (UPMC, KPNC, and VA), the first episode of sus- pected infection was identified as the combination of antibiot- ics(oralorparenteral)andbodyfluidcultures(blood,urine,ce- rebrospinal fluid, etc). We required the combination of culture and antibiotic start time to occur within a specific time epoch. If the antibiotic was given first, the culture sampling must have beenobtainedwithin24hours.Iftheculturesamplingwasfirst, theantibioticmusthavebeenorderedwithin72hours.The“on- set” of infection was defined as the time at which the first of these 2 events occurred (eAppendix in the Supplement). For non-EHR data in ALERTS, patients were included who met US Centers for Disease Control and Prevention definitions or clinical criteria for hospital-acquired infection more than 48 hoursafteradmissionasdocumentedbyprospectivescreening.7 For non-EHR data in KCEMS, administrative claims identified infection present on admission (Angus implementation of in- fection using International Classification of Diseases, Ninth Re- vision, Clinical Modification (ICD-9-CM) diagnos",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "17e95aa3-e250-4382-a197-1d23c2ce6d1f",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 2,
+    "text": "trative claims identified infection present on admission (Angus implementation of in- fection using International Classification of Diseases, Ninth Re- vision, Clinical Modification (ICD-9-CM) diagnosis codes).6 DeterminingClinicalCriteriaforSepsisUsingExistingMeasures In UPMC derivation and validation data, indicators were gen- erated for each component of the systemic inflammatory re- sponse syndrome (SIRS) criteria4; the Sequential [Sepsis- related] Organ Failure Assessment (SOFA) score8; and the Logistic Organ Dysfunction System (LODS) score,9 a weighted organ dysfunction score (Table 1). We used a modified version of the LODS score that did not contain urine output (because ofpooraccuracyinrecordingonhospitalwardencounters),pro- thrombin, or urea levels. The maximum SIRS criteria, SOFA score, and modified LODS score were calculated for the time window from 48 hours before to 24 hours after the onset of in- fection, as well as on each calendar day. This window was used EHR electronic health record GCS Glasgow Coma Scale ICU intensive care unit LODS Logistic Organ Dysfunction System qSOFA quick Sequential [Sepsis-related] Organ Function Assessment SIRS systemic inflammatory resp",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "8f533812-df64-404e-920e-ffe630c40efc",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 2,
+    "text": "ic health record GCS Glasgow Coma Scale ICU intensive care unit LODS Logistic Organ Dysfunction System qSOFA quick Sequential [Sepsis-related] Organ Function Assessment SIRS systemic inflammatory response syndrome SOFA Sequential [Sepsis-related] Organ Function Assessment Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.com (Reprinted) JAMA February 23, 2016 Volume 315, Number 8 763 Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 513
+  },
+  {
+    "chunk_id": "e6302f61-6002-4117-b4ed-1cfc0f235f8e",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 3,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. for candidate criteria because organ dysfunction in sepsis may occur prior to, near the moment of, or after infection is recog- nized by clinicians or when a patient presents for care. More- over, the clinical documentation, reporting of laboratory val- ues in EHRs, and trajectory of organ dysfunction are heterogeneous across encounters and health systems. In a post hocanalysisrequestedbythetaskforce,achangeinSOFAscore was calculated of 2 points or more from up to 48 hours before to up to 24 hours after the onset of infection. Deriving Novel Clinical Criteria for Sepsis In the derivation cohort (UPMC), new, simple criteria were de- veloped according to the Transparent Reporting of a Multivari- able Prediction Model for Individual Prognosis or Diagnosis (TRIPOD) recommendations.10 This entailed 2 steps: (1) assess- ingcandidatevariablequalityandfrequencyofmissingdataand (2)developingaparsimoniousmodelandsimplepointscore.3,8,11 Because of the subjective nature and complexity of variables in existing criteria, we sought a simple model that could easily be used by a clinician at the bedside. Based on the assumption that ",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "bd7d941d-b981-4f5c-ac58-89163e2c6fc6",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 3,
+    "text": ",8,11 Because of the subjective nature and complexity of variables in existing criteria, we sought a simple model that could easily be used by a clinician at the bedside. Based on the assumption that hospital mortality would be farmorecommoninencounterswithinfectedpatientswhohave sepsis than in those who do not, all continuous variables were dichotomized by defining their optimal cutoffs using the mini- mum0/1distanceontheareaunderthereceiveroperatingchar- acteristiccurve(AUROC)forin-hospitalmortality.12Cutoffswere rounded to the nearest integer, and standard single-value im- putation was used, with normal value substitution if variables were missing. The latter approach is standard in clinical risk scores8,13,14 and mirrors how clinicians would use the score at the bedside. Multiple logistic regression was used with robust standard errors and forward selection of candidate variables using the Bayesian information criterion to develop the “quick SOFA” (qSOFA) model. The Bayesian information criterion is a likelihood-based stepwise approach that retains variables that improve the model’s overall ability to predict the outcome of interest while incorporating a penalty for including t",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "67c8a2a1-a6be-4844-bb34-fd2206544346",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 3,
+    "text": "ation criterion is a likelihood-based stepwise approach that retains variables that improve the model’s overall ability to predict the outcome of interest while incorporating a penalty for including too many variables. Favoring simplicity over accuracy, a point score of 1 was assigned to each variable in the final model, irrespective of the regression coefficients. Model calibration was assessed by comparing clinically relevant differences in observed vs ex- pected outcomes, as the Hosmer-Lemeshow test may be sig- nificant due to large sample sizes.15 Assessments of Candidate Clinical Criteria Thetest:retestorinterraterreliabilityofindividualelementswas not assessed, in part because most elements have known reli- ability. However, the frequency of missing data was deter- mined for each element because more common missing data for individual elements will potentially affect the reliability of integratedscoressuchastheSOFAscore.Constructvaliditywas determined by examining the agreement between different measures analogous to the multitrait-multimethod matrix ap- proach of Campbell and Fiske, using the Cronbach α to mea- sureagreementorcommonality.16,17 Confidenceintervalswere generat",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "ab354724-d682-47a3-b7f3-633a6ad5473e",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 3,
+    "text": "etween different measures analogous to the multitrait-multimethod matrix ap- proach of Campbell and Fiske, using the Cronbach α to mea- sureagreementorcommonality.16,17 Confidenceintervalswere generated with the bootstrap method (100 replications). Criterion validity was assessed using the predictive valid- ity of the candidate criteria with outcomes (primary outcome: in-hospital mortality; secondary outcome: in-hospital mortal- ityorintensivecareunit[ICU]lengthofstay≥3days).Theseout- comes are objective, easily measured across multiple hospi- tals in US/non-US cohorts, and are more likely to be present in encounters with patients with sepsis than those with uncom- plicatedinfection.Tomeasurepredictivevalidity,abaselinerisk model was created for in-hospital mortality based on preinfec- tion criteria using multivariable logistic regression. The base- line model included age (as a fractional polynomial), sex, race/ ethnicity (black, white, or other), and the weighted Charlson comorbidity score (as fractional polynomial) as a measure of chronic comorbidities.18,19 Race/ethnicity was derived from UPMC registration system data using fixed categories consis- tent with the Centers for Med",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "59749cd3-a93d-4eb1-9769-37ab072d32f6",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 3,
+    "text": " score (as fractional polynomial) as a measure of chronic comorbidities.18,19 Race/ethnicity was derived from UPMC registration system data using fixed categories consis- tent with the Centers for Medicare & Medicaid Services EHR Table 1. Variables for Candidate Sepsis Criteria Among Encounters With Suspected Infection Systemic Inflammatory Response Syndrome (SIRS) Criteria (Range, 0-4 Criteria) Sequential [Sepsis-related] Organ Failure Assessment (SOFA) (Range, 0-24 Points) Logistic Organ Dysfunction System (LODS) (Range, 0-22 Points)a Quick Sequential [Sepsis-related] Organ Failure Assessment (qSOFA) (Range, 0-3 Points) Respiratory rate, breaths per minute PaO2/FiO2 ratio PaO2/FiO2 ratio Respiratory rate, breaths per minute White blood cell count, 109/L Glasgow Coma Scale score Glasgow Coma Scale score Glasgow Coma Scale score Bands, % Mean arterial pressure, mm Hg Systolic blood pressure, mm Hg Systolic blood pressure, mm Hg Heart rate, beats per minute Administration of vasopressors with type/dose/rate of infusion Heart rate, beats per minute Temperature, °C Serum creatinine, mg/dL, or urine output, mL/d Serum creatinine, mg/dL Arterial carbon dioxide tension, mm Hg Bilirubin, ",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "b224cd37-5c43-4eae-80f1-c462376078e8",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 3,
+    "text": "s with type/dose/rate of infusion Heart rate, beats per minute Temperature, °C Serum creatinine, mg/dL, or urine output, mL/d Serum creatinine, mg/dL Arterial carbon dioxide tension, mm Hg Bilirubin, mg/dL Bilirubin, mg/dL Platelet count, 109/L Platelet count, 109/L White blood cell count, 109/L Urine output, L/d Serum urea, mmol/L Prothrombin time, % of standard Abbreviation: FiO2, fraction of inspired oxygen. a Measurement units for LODS variables per original description by Le Gall et al.9 Research Original Investigation Assessment of Clinical Criteria for Sepsis 764 JAMA February 23, 2016 Volume 315, Number 8 (Reprinted) jama.com Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 738
+  },
+  {
+    "chunk_id": "c67af0aa-4696-4902-a85c-a340f69c71c8",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 4,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. meaningful use data set.20 Race/ethnicity was included in the baselinemodelbecauseofitsdescribedassociationwiththein- cidence and outcomes of sepsis.21 Encounters were then divided into deciles of baseline risk. Within each decile, the rate of in-hospital mortality ± ICU length of stay of 3 days or longer was determined comparing encounters with infection with 2 or more SIRS, SOFA, LODS, and qSOFA points vs encounters with less than 2 criteria of the same score (threshold of 2 points was determined a priori). Model discrimination was assessed with the AUROC for each outcome using the continuous score(s) alone, then added to the baseline risk model. Analyses were separately performed in ICU encounters and non-ICU encounters at the onset of in- fection. New, simple criteria in external data sets were as- sessed in both ICU and non-ICU encounters. Because serum lactate is widely used as a screening tool insepsis,22howitsmeasurementwouldimprovepredictiveva- lidity of new criteria was assessed in post hoc analyses. Evalu- ation included qSOFA models that did and did not include se- rum lactate at thresholds of 2.0, 3.0, a",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "8a0fadf2-ad2c-46cb-907a-93f73da4d239",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 4,
+    "text": "surementwouldimprovepredictiveva- lidity of new criteria was assessed in post hoc analyses. Evalu- ation included qSOFA models that did and did not include se- rum lactate at thresholds of 2.0, 3.0, and 4.0 mmol/L (18, 27, and 36 mg/dL) and as a continuous variable.23 Only KPNC data were used for these analyses because an ongoing quality im- provement program promoting frequent serum lactate mea- surement across the health system minimized confounding by indication.24 Several sensitivity analyses were performed to assess ro- bustness of the findings. These included a variety of restric- tions to the cohort, more rigorous definitions of suspected or presumed infection, alternative ways to measure clinical vari- ables (such as altered mentation in the EHR), and multiple im- putation analyses for missing data. There are many possible time windows for criteria around the onset of infection. A va- riety of windows differing from the primary analysis were tested, including (1) 3 hours before to 3 hours after; (2) 12 hours before to 12 hours after; and (3) restricting to only the 24 hours after the onset of infection. Detailed descriptions are in the Supplement. All analyses were performe",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "d1d653c2-fa86-4ea7-906c-09e2c2df635a",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 4,
+    "text": " to 3 hours after; (2) 12 hours before to 12 hours after; and (3) restricting to only the 24 hours after the onset of infection. Detailed descriptions are in the Supplement. All analyses were performed with STATA software, ver- sion 11.0 (Stata Corp). All tests of significance used a 2-sided P ≤.05. We considered AUROCs to be poor at 0.6 to 0.7, ad- equate at 0.7 to 0.8, good at 0.8 to 0.9, and excellent at 0.9 or higher.25 Results Cohorts and Encounter Characteristics At 177 hospitals in 5 US and non-US data sets between 2008 and 2013 (Table 2), 4 885 558 encounters were studied. In the primarycohortof1 309 025records(UPMCderivationandvali- dation; Figure 1), 148 907 encounters had suspected infec- tion, most often presenting outside of the ICU (n = 133 139 [89%]). As shown in Table 3, first infection was commonly sus- pected within 48 hours of admission (86%), most often pre- senting in the emergency department (44%) compared with the ward (33%) or ICU (11%), and mortality was low (4%). The Table 2. Summary of Data Sets Characteristics UPMCa KPNC VA ALERTS KCEMS Years of cohort 2010-2012 2009-2013 2008-2010 2011-2012 2009-2010 No. of hospitals 12 20 130 1 14 Total No. of encounte",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "9ec4a501-9e09-443c-af9a-8eb948c9fdad",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 4,
+    "text": "%). The Table 2. Summary of Data Sets Characteristics UPMCa KPNC VA ALERTS KCEMS Years of cohort 2010-2012 2009-2013 2008-2010 2011-2012 2009-2010 No. of hospitals 12 20 130 1 14 Total No. of encounters 1 309 025 1 847 165 1 640 543 38 098 50 727 Data source and study design Retrospective study of EHRs Retrospective study of EHRs Retrospective study of EHRs Prospective cohort study Retrospective study of administrative records Setting Integrated health system in southwestern Pennsylvania Integrated health system in northern California All hospitals in the US VA system Single university hospital, Jena, Germany Out-of-hospital records from integrated emergency medical services system in King County, Washington Definition of suspected infection Combination of body fluid culture and nonprophylactic antibiotic administration in the EHRb Combination of body fluid culture and nonprophylactic antibiotic administration in the EHRb Combination of body fluid culture and nonprophylactic antibiotic administration in the EHRb CDC criteria for hospital-acquired infectionsc ICD-9-CM codes for infection, with present-on-admission indicatorsd No. with suspected infection (% of total) 148 907 (11) 32",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "7802f05e-b5db-43d3-b5ea-3cf616e8d4a0",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 4,
+    "text": " administration in the EHRb CDC criteria for hospital-acquired infectionsc ICD-9-CM codes for infection, with present-on-admission indicatorsd No. with suspected infection (% of total) 148 907 (11) 321 380 (17) 377 325 (23) 1186 (3) 6508 (13) Location at onset of infection, No. (%) infected Intensive care unit 15 768 (11) 7031 (2) 73 264 (19) 300 (25) 0 Outside of intensive care unit 133 139 (89) 314 349 (98) 304 061 (81) 886 (75) 6508 (100) In-hospital mortality, No. (%) infectede 6347 (4) 16 092 (5) 22 593 (6) 210 (18) 700 (11) Abbreviations: KCEMS, King County Emergency Medical Services; KPNC, Kaiser Permanente Northern California; EHR, electronic health record; ICD-9-CM, International Classification of Diseases, Ninth Revision, Clinical Modification; VA, Veterans Administration. a Referred to as the primary cohort, further divided into derivation (n = 74 453) and validation (n = 74 454) cohorts. bSee the eAppendix in the Supplement for details about time windows specified between body fluid cultures and antibiotic administration. c Patients were enrolled in ALERTS if the in-hospital stay was longer than 48 hours and in-person prospective screening revealed hospital-acquired inf",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "1ea375d9-33c5-43b4-8370-c06fd6eeaaff",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 4,
+    "text": "ody fluid cultures and antibiotic administration. c Patients were enrolled in ALERTS if the in-hospital stay was longer than 48 hours and in-person prospective screening revealed hospital-acquired infection criteria according to Centers for Disease Control and Prevention (CDC) guidelines.7 dRequired Angus implementation ICD-9-CM code for infection accompanied by present-on-admission indicator, as previously validated.6 e Among UPMC encounters, 28 286 (19%) had in-hospital mortality plus intensive care unit length of stay of 3 days or longer. Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.com (Reprinted) JAMA February 23, 2016 Volume 315, Number 8 765 Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 788
+  },
+  {
+    "chunk_id": "c5afff56-21aa-4559-a62a-ebb28efa55cb",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 5,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. median time from the start of the encounter until the onset of suspectedinfection(definedascultureorantibioticsorder)was 4.2 hours (interquartile range, 1.6-19.2 hours). In KPNC hos- pitals (eTable 1 in the Supplement), first suspected infections occurredoutsidetheICU(98%)withsimilarmortality(5%)and proportion identified within 48 hours of admission (81%). Se- rum lactate was measured in 57% of suspected infection en- counters in KPNC hospitals compared with less than 10% in the other cohorts. In VA hospitals, encounters with sus- pectedinfectionhadsimilarmortality(6%)butweremorelikely to be first identified in the ICU (19%). A minority of first infec- tion episodes occurred following surgery, and positive blood cultures were found in 5% to 19% of encounters. In the base- line risk model, using only demographics and comorbidities, there was a 10-fold variation for in-hospital mortality across deciles of baseline risk, ranging from 0.7% to 8% (eFigure 1 in the Supplement). Frequency of Missing Data Among Clinical and Laboratory Variables In the UPMC derivation cohort, SIRS criteria and selected labo- ratory tests in S",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "68296c2b-9117-4351-810b-07bde683defc",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 5,
+    "text": "nging from 0.7% to 8% (eFigure 1 in the Supplement). Frequency of Missing Data Among Clinical and Laboratory Variables In the UPMC derivation cohort, SIRS criteria and selected labo- ratory tests in SOFA and LODS were variably measured in the EHR near the onset of infection (eFigure 2 in the Supple- ment). Tachycardia, tachypnea, and hypotension, although present in less than 50% of encounters, were the most com- mon clinical abnormalities. Encounters in the ICU were more likely to have SIRS and SOFA variables measured and values were more likely to be abnormal. For encounters outside of the ICU, laboratory data were less available, with total bilirubin, ratio of PaO2 to fraction of inspired oxygen, and platelet counts absent in 62%, 74%, and 15% of encounters, respectively. Performance of Existing Criteria in the ICU in the UPMC Cohort Among ICU encounters with suspected infection in the UPMC validation cohort (n = 7932 [11%]), most had 2 or more LODS points (88%), SOFA points (91%), or SIRS criteria (84%) near the time of suspected infection, with mortality rates of 18% for allscoresatthisthreshold(Figure2andeFigure3intheSupple- ment). SOFA and LODS had greater statistical agreem",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "6375d0f4-5eed-41e1-812a-eda69c117a0b",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 5,
+    "text": "or SIRS criteria (84%) near the time of suspected infection, with mortality rates of 18% for allscoresatthisthreshold(Figure2andeFigure3intheSupple- ment). SOFA and LODS had greater statistical agreement with each other (α = 0.87; 95% CI, 0.87-0.88) but lower with SIRS (α = 0.43 [95% CI, 0.41-0.46] for SOFA; α = 0.41 [95% CI, 0.38- 0.43]forLODS)(Figure3).EncountersintheICUwith2ormore vslessthan2SIRScriteriawerecomparedwithindecileofbase- line risk and observed a 1- to 2-fold increased rate of hospital mortality compared with a 3- to 11-fold increase in mortality comparing those with 2 or more vs less than 2 SOFA points (Figure 4). The fold change in the LODS score was even greater than that for SOFA. In the ICU, the predictive validity for hospital mortality using SOFA (AUROC = 0.74; 95% CI, 0.73-0.76) and LODS (AUROC = 0.75; 95% CI, 0.73-0.76; P = .20) were not statisti- cally different but were statistically greater than that of SIRS (AUROC = 0.64; 95% CI, 0.62-0.66; P < .001 for either LODS or SOFA vs SIRS) (Figure 3 and eFigure 4 and eTable 2 in the Supplement). Results for a change in SOFA of 2 points or more were significantly greater compared with SIRS (AUROC = 0.70; 95% CI,",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "ca60af11-bf8a-4ee2-9919-878af0132879",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 5,
+    "text": "her LODS or SOFA vs SIRS) (Figure 3 and eFigure 4 and eTable 2 in the Supplement). Results for a change in SOFA of 2 points or more were significantly greater compared with SIRS (AUROC = 0.70; 95% CI, 0.68-0.71; P < .001 vs SIRS criteria). The SOFA score was 2 or more in 98% of decedents (95% CI, 97%-99%); among survivors, the SOFA score was less than 2 in 10% (95% CI, 10%- 11%). These proportions were similar for a LODS threshold of 2 or 3 (eTable 3 in the Supplement). Among decedents, 2 or more SIRS criteria were present in 91% (95% CI, 89%-92%). Re- sults were consistent for the combined outcome (eFigures 5 and 6 in the Supplement). Performance of Existing Criteria Outside the ICU in the UPMC Cohort For encounters with suspected infection outside of the ICU (n = 66 522 [89% of cohort]), 20 130 (30%) had no SIRS crite- ria, 27 560 (41%) had no SOFA points, and 29 789 (45%) had no LODS points (Figure 2). Agreement followed a pattern simi- Figure 1. Accrual of Encounters for Primary Cohort 1 309 025 Patient encounters at 12 UPMC hospitals in 2010-2012 148 907 With suspected infection in ED, ICU, ward, step-down unit, or PACU included in primary cohort 1 160 118 Excluded 1 109 402 N",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "4a936b46-763f-4bfe-9547-c20fc33d4c2c",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 5,
+    "text": "hort 1 309 025 Patient encounters at 12 UPMC hospitals in 2010-2012 148 907 With suspected infection in ED, ICU, ward, step-down unit, or PACU included in primary cohort 1 160 118 Excluded 1 109 402 No infection present 2117 Error in encounter start time 45 628 Aged <18 y 2169 Outside eligible date range 28 Error in hospital type 774 Initial location was clinic 74 453 Included in derivation cohort 74 454 Included in validation cohort 66 617 Outside of ICU 7836 In ICU 66 522 Outside of ICU 7932 In ICU ED indicates emergency department; ICU, intensive care unit; PACU, postanesthesia care unit. Research Original Investigation Assessment of Clinical Criteria for Sepsis 766 JAMA February 23, 2016 Volume 315, Number 8 (Reprinted) jama.com Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 839
+  },
+  {
+    "chunk_id": "94071176-ba4d-462a-acb5-5ebaadb18cc0",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 6,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. lar to that in the ICU encounters but with generally smaller Cronbach α statistics (Figure 3). Over deciles of baseline risk (Figure 4), encounters with 2 or more vs less than 2 SIRS cri- teria had a 2- to 7-fold increase in the rate of in-hospital mor- tality compared with up to an 80-fold change for 2 or more vs less than 2 SOFA points. Table 3. Characteristics of Encounters With Suspected Infection in the Primary Cohort at 12 UPMC Hospitals From 2010 to 2012 (N = 148 907)a Variables All Encounters Derivation Cohort Validation Cohort ICU Encounters Encounters Outside of ICU ICU Encounters Encounters Outside of ICU Total encounters with suspected infection, No. 148 907 7836 66 617 7932 66 522 Infection type, No. (%)b Presumed 112 850 (76) 7282 (93) 49 287 (74) 7351 (93) 48 930 (74) Confirmed bacteremia 6875 (5) 646 (8) 2780 (4) 652 (8) 2797 (4) Age, mean (SD), y 61 (19) 62 (17) 61 (20) 62 (17) 60 (20) Male, No. (%) 63 311 (43) 4192 (54) 27 418 (41) 4255 (54) 27 446 (41) Race/ethnicity, No. (%) White 113 029 (76) 5774 (74) 50 843 (76) 5881 (74) 50 531 (76) Black 20 892 (14) 808 (10) 9552 (14) 777 (10) 9755 (15) Other",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "9592729c-1c67-4e49-9de3-bbe14b022a8f",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 6,
+    "text": "11 (43) 4192 (54) 27 418 (41) 4255 (54) 27 446 (41) Race/ethnicity, No. (%) White 113 029 (76) 5774 (74) 50 843 (76) 5881 (74) 50 531 (76) Black 20 892 (14) 808 (10) 9552 (14) 777 (10) 9755 (15) Other 14 986 (10) 1254 (16) 6222 (9) 1274 (16) 6236 (9) Weighted Charlson comorbidity index, median (IQR) 1 (0-2) 1 (0-2) 1 (0-2) 1 (0-2) 1 (0-2) Surgery prior to infection suspected, No. (%) 17 327 (12) 2153 (27) 6517 (10) 2171 (27) 6486 (10) Onset of infection within 48 h of admission, No. (%) 128 358 (86) 6022 (77) 58 187 (87) 5993 (76) 58 156 (87) Unit location at time infection suspected, No. (%) Emergency department 65 934 (44) 32 902 (50) 33 032 (50) Ward 49 354 (33) 24 787 (37) 24 567 (37) ICU 15 768 (11) 7836 (100) 7932 (100) Postacute care unit or procedure unit 1965 (1) 960 (1) 1005 (2) Step-down unit 15 662 (11) 7855 (12) 7807 (12) Other or missing data 224 (<1) 113 (<1) 111 (<1) SIRS near onset of suspected infectionc Mean (SD) 1.3 (1.1) 2.5 (1.0) 1.2 (1.1) 2.5 (1.0) 1.2 (1.0) Median (IQR) 1 (0-2) 3 (2-3) 1 (0-2) 3 (2-3) 1 (0-2) SOFA near onset of suspected infectiond Mean (SD) 2.0 (2.7) 6.3 (4.0) 1.4 (1.9) 6.2 (3.9) 1.4 (2.0) Median (IQR) 1 (0-3) 6 (3-9) 1 (0-2) 6 (3-9) 1 (0-2",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "436c9af8-2bbb-4613-9397-c8b7e95a996a",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 6,
+    "text": "an (IQR) 1 (0-2) 3 (2-3) 1 (0-2) 3 (2-3) 1 (0-2) SOFA near onset of suspected infectiond Mean (SD) 2.0 (2.7) 6.3 (4.0) 1.4 (1.9) 6.2 (3.9) 1.4 (2.0) Median (IQR) 1 (0-3) 6 (3-9) 1 (0-2) 6 (3-9) 1 (0-2) LODS near onset of suspected infectione Mean (SD) 2.0 (2.8) 6.3 (3.9) 1.5 (2.1) 6.3 (3.8) 1.5 (2.1) Median (IQR) 1 (0-3) 6 (4-9) 1 (0-3) 6 (3-9) 1 (0-3) Serum lactate measured on day of infection, No. (%) 13 492 (9) 3187 (41) 3611 (5) 3067 (39) 3627 (5) Serum lactate ≥2.0 mmol/L, No. (%) 6177 (4) 1643 (21) 1444 (2) 1555 (20) 1535 (2) ICU admission, No. (%) 37 528 (25) 7836 (100) 10 935 (16) 7932 (100) 10 825 (16) Hospital length of stay, median (IQR), d 6 (3-10) 12 (7-20) 6 (3-9) 12 (7-19) 6 (3-9) Hospital mortality, No. (%) 6347 (4) 1298 (17) 1874 (3) 1289 (16) 1886 (3) SI conversion: To convert serum lactate to milligrams per deciliter, divide by 0.111. Abbreviations: ICU, intensive care unit; IQR, interquartile range; LODS, Logistic Organ Dysfunction System; SIRS, systemic inflammatory response syndrome; SOFA, Sequential [Sepsis-related] Organ Function Assessment. a Data derived from electronic health records. bPresumed infection is a subset of suspected infection in which encount",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "68e2219b-66e0-43db-96ab-46ab1fc43d20",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 6,
+    "text": "y response syndrome; SOFA, Sequential [Sepsis-related] Organ Function Assessment. a Data derived from electronic health records. bPresumed infection is a subset of suspected infection in which encounters received 2 or more doses of an antibiotic within 96 hours of onset of infection. Confirmed bacteremia is a subset among which blood cultures were positive during the encounter. c SIRS criteria range from 0 to 4, wherein 1 point is given for perturbations of the following variables: respiratory rate, white blood cell count/bands, heart rate, and temperature (see Table 1).29 Maximum score is determined from 48 hours before to 24 hours after onset of infection. dThe SOFA score ranges from 0 to 24, where 0 to 4 points are assigned for 1 of 6 organ dysfunctions: hematologic, hepatic, respiratory, neurologic, cardiac, and renal.8 A greater score corresponds to greater severity. Maximum score is determined from 48 hours before to 24 hours after onset of infection. e The LODS score, modified for available data, ranges from 0 to 22 points, wherein points are assigned with increasing severity to hematologic, hepatic, pulmonary, neurologic, cardiovascular, and renal dysfunction.9 Maximum scor",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "8be219f9-561f-4349-a6d3-26f5b2296056",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 6,
+    "text": "or available data, ranges from 0 to 22 points, wherein points are assigned with increasing severity to hematologic, hepatic, pulmonary, neurologic, cardiovascular, and renal dysfunction.9 Maximum score is determined from 48 hours before to 24 hours after onset of infection. Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.com (Reprinted) JAMA February 23, 2016 Volume 315, Number 8 767 Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 515
+  },
+  {
+    "chunk_id": "49f61e30-9952-4bbb-a989-2c1c2c9fc709",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 7,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. Figure 2. Distribution of Patient Encounters Over SIRS Criteria and SOFA, LODS, and qSOFA Scores Among ICU Patients and Non-ICU Patients With Suspected Infection in the UPMC Validation Cohort (N = 74 454) ICU encounters (n = 7932) Non-ICU encounters (n = 66 522) 50 40 30 20 10 0 Encounters, % qSOFA Score 0 1 3 2 50 40 30 20 10 0 Encounters, % qSOFA Score 0 1 3 2 qSOFA score D 50 40 30 20 10 0 Encounters, % LODS Score 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 50 40 30 20 10 0 Encounters, % LODS Score 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 LODS score C 50 40 30 20 10 0 Encounters, % SOFA Score 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 50 40 30 20 10 0 Encounters, % SOFA Score 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 SOFA score B 50 40 30 20 10 0 Encounters, % SIRS Criteria 0 1 2 3 4 50 40 30 20 10 0 Encounters, % SIRS Criteria 0 1 2 3 4 SIRS criteria A ICU indicates intensive care unit; LODS, Logistic Organ Dysfunction System; qSOFA, quick Sequential [Sepsis-related] Organ Function Assessment; SIRS, systemic inflammatory response syndrome; SOFA, Sequential [Sepsis-related] Organ Function Assessment. The x-axis is the score range, ",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "f29555be-99ed-42ca-a0f6-f524b0e3ec3d",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 7,
+    "text": "quick Sequential [Sepsis-related] Organ Function Assessment; SIRS, systemic inflammatory response syndrome; SOFA, Sequential [Sepsis-related] Organ Function Assessment. The x-axis is the score range, with LODS truncated at 14 points (of 22 points) and SOFA truncated at 16 points (of 24 points) for illustration. Research Original Investigation Assessment of Clinical Criteria for Sepsis 768 JAMA February 23, 2016 Volume 315, Number 8 (Reprinted) jama.com Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 553
+  },
+  {
+    "chunk_id": "8d83a860-3d38-4af1-a28d-71a2a7358be6",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 8,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. The discrimination of hospital mortality using SOFA (AUROC = 0.79;95%CI,0.78-0.80),LODS(AUROC = 0.82;95% CI, 0.81-0.83), or change in SOFA (AUROC = 0.79; 95% CI, 0.78- 0.79) scores was significantly greater compared with SIRS cri- teria (AUROC = 0.76; 95% CI, 0.75-0.77; P < .01 for all) (Figure 3 andeFigure4andeTable2intheSupplement).Sixty-eightper- cent (95% CI, 66%-70%) of decedents had 2 or more SOFA points and 67% (95% CI, 66%-67%) of survivors had less than 2 SOFA points. In comparison, only 64% (95% CI, 62%-67%) of decedents had 2 or more SIRS criteria, whereas 65% of sur- vivors had less than 2 SIRS criteria (95% CI, 64%-65%) (eTable 3 in the Supplement). Results were consistent for the com- bined outcome (eFigures 5 and 6 in the Supplement). Performance of New, Simple Criteria The final qSOFA model included Glasgow Coma Scale (GCS) score of 13 or less, systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or more (1 point each; score range, 0-3) (Table 4). Most encounters with infection (73%- 90%) had less than 2 qSOFA points, and mortality ranged from 1% to 24% over the score range (eF",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "106f7e9b-e75f-4363-9d6b-b586aaeb2ef1",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 8,
+    "text": " rate of 22/min or more (1 point each; score range, 0-3) (Table 4). Most encounters with infection (73%- 90%) had less than 2 qSOFA points, and mortality ranged from 1% to 24% over the score range (eFigure 7 in the Supplement). Calibration plots showed similar observed vs expected pro- portion of deaths across qSOFA scores (eFigure 8 in the Supple- ment). The qSOFA agreed reasonably well with both SOFA (α = 0.73; 95% CI, 0.73-0.74) and LODS (α = 0.79; 95% CI, 0.78- 0.79) and, unlike SOFA and LODS, also agreed more with SIRS (α = 0.69; 95% CI, 0.68-0.69) (Figure 3). The 24% of encoun- ters with infection with 2 or 3 qSOFA points accounted for 70% of deaths, 70% of deaths or ICU stays of 3 days or longer. In the ICU, the predictive validity for hospital mortality of qSOFA above baseline risk (AUROC = 0.66; 95% CI, 0.64- 0.68) was statistically greater than SIRS criteria (P = .01) but significantly less than SOFA (P < .001) (Figure 3 and eFigure 4 and eTable 2 in the Supplement). Outside of the ICU, there was a 3- to 14-fold increase in the rate of hospital mortality across the entire range of baseline risk comparing those with 2 or more vs less than 2 qSOFA points (Figure 4). The pre",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "a18c397a-405b-447e-843f-a2f175d98bb7",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 8,
+    "text": "of the ICU, there was a 3- to 14-fold increase in the rate of hospital mortality across the entire range of baseline risk comparing those with 2 or more vs less than 2 qSOFA points (Figure 4). The predic- tive validity of qSOFA was good for in-hospital mortality (AUROC = 0.81; 95% CI, 0.80-0.82), was not statistically dif- ferent from LODS (P = .77) and was statistically greater than SOFA or change in SOFA score (P < .001 for both) (Figure 3, Figure 4, and eFigure 4 and eTable 2 in the Supplement). Sev- enty percent (95% CI, 69%-72%) of decedents had 2 or more qSOFA points and 78% (95% CI, 78%-79%) of survivors had less than 2 qSOFA points (eTable 3 in the Supplement). Results were consistent for the combined outcome (eFigures 5 and 6 in the Supplement). Among encounters with 2 or more qSOFA points, 75% also had 2 or more SOFA points (eFigure 9 in the Supplement). This proportion was greater among decedents (89%) and ICU en- counters (94%) and increased as the time window for evalu- ation was extended to 48 hours (90%) and 72 hours (92%) af- ter the onset of infection. External Data Sets The qSOFA was tested in 4 external data sets comprising 706 399 patient encounters at 165 hospi",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "cb794770-7e45-47d7-a01d-3101b241e9e3",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 8,
+    "text": "ion was extended to 48 hours (90%) and 72 hours (92%) af- ter the onset of infection. External Data Sets The qSOFA was tested in 4 external data sets comprising 706 399 patient encounters at 165 hospitals in out-of- hospital(n = 6508),non-ICU(n = 619 137),andICU(n = 80 595) Figure 3. Area Under the Receiver Operating Characteristic Curve and 95% Confidence Intervals for In-Hospital Mortality of Candidate Criteria (SIRS, SOFA, LODS, and qSOFA) Among Suspected Infection Encounters in the UPMC Validation Cohort (N = 74 454) ICU encounters (n = 7932) A SIRS 0.64 (0.62-0.66) 0.43 (0.41-0.46) 0.41 (0.38-0.43) 0.46 (0.43-0.48) SOFA <.001 0.74 (0.73-0.76) 0.87 (0.87-0.88) 0.65 (0.63-0.66) LODS <.001 0.20 0.75 (0.73-0.76) 0.76 (0.75-0.77) qSOFA .01 <.001 <.001 0.66 (0.64-0.68) SIRS SOFA LODS qSOFA Non-ICU encounters (n = 66 522) B SIRS 0.76 (0.75-0.77) 0.52 (0.51-0.53) 0.43 (0.42-0.44) 0.61 (0.61-0.62) SOFA <.001 0.79 (0.78-0.80) 0.80 (0.80-0.81) 0.59 (0.58-0.60) LODS <.001 <.001 0.81 (0.80-0.82) 0.68 (0.68-0.69) qSOFA <.001 <.001 .72 0.81 (0.80-0.82) SIRS SOFA LODS qSOFA ICU indicates intensive care unit; LODS, Logistic Organ Dysfunction System; qSOFA, quick Sequential [Sepsis-related] Org",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "3cf56ca7-f4ff-476b-8b22-0a9cacc4d33f",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 8,
+    "text": "2) 0.68 (0.68-0.69) qSOFA <.001 <.001 .72 0.81 (0.80-0.82) SIRS SOFA LODS qSOFA ICU indicates intensive care unit; LODS, Logistic Organ Dysfunction System; qSOFA, quick Sequential [Sepsis-related] Organ Function Assessment; SIRS, systemic inflammatory response syndrome; SOFA, Sequential [Sepsis-related] Organ Function Assessment. The area under the receiver operating characteristic curve (AUROC) data in the blue-shaded diagonal cells derive from models that include baseline variables plus candidate criteria. For comparison, the AUROC of the baseline model alone is 0.58 (95% CI, 0.57-0.60) in the ICU and 0.69 (95% CI, 0.68-0.70) outside of the ICU. Below the AUROC data cells are P values for comparisons between criteria, while above the AUROC data cells are Cronbach α data (with bootstrap 95% confidence intervals), a measure of agreement. Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.com (Reprinted) JAMA February 23, 2016 Volume 315, Number 8 769 Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 1090
+  },
+  {
+    "chunk_id": "0107aee0-7652-4f8a-a097-0bc1d1b53c8d",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 8,
+    "text": "ght 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 90
+  },
+  {
+    "chunk_id": "296daeef-ff32-4674-873f-b374a7ddbc28",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 9,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. settings (eTable 1 in the Supplement). Among encounters with community infection (KCEMS) or hospital-acquired infection (ALERTS), qSOFA had consistent predictive validity (AUROC = 0.71 and 0.75, respectively) (Table 5 and eFigure 4 in the Supplement). Results were similar in the VA data set (AUROC = 0.78), in which no GCS data were available. Serum Lactate During model building in UPMC data, serum lactate did not meetprespecifiedstatisticalthresholdsforinclusioninqSOFA. In KPNC data, the post hoc addition of serum lactate levels of 2.0 mmol/L (18 mg/dL) or more to qSOFA (revised to a 4-point score with 1 added point for elevated serum lactate level) sta- tisticallychangedthepredictivevalidityofqSOFA(AUROCwith lactate = 0.80; 95% CI, 0.79-0.81 vs AUROC without lac- tate = 0.79; 95% CI, 0.78-0.80; P < .001) (eFigure 10A in the Supplement).AsshownineTable4intheSupplement,thiswas consistent for higher thresholds of lactate (3.0 mmol/L [27 mg/dL], 4.0 mmol/L [36 mg/dL]) or using a continuous dis- tribution (P < .001). However, the clinical relevance was small astheratesofin-hospitalmortalitycomparingencounterswith 2 or mo",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "dda30704-d294-4a87-85d7-407f9e286ef2",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 9,
+    "text": "3.0 mmol/L [27 mg/dL], 4.0 mmol/L [36 mg/dL]) or using a continuous dis- tribution (P < .001). However, the clinical relevance was small astheratesofin-hospitalmortalitycomparingencounterswith 2 or more vs less than 2 points across deciles of risk were nu- merically similar whether or not serum lactate was included in qSOFA (eFigure 10B in the Supplement). Among encounters with 1 qSOFA point but also a serum lactate level of 2.0 mmol/L or more, in-hospital mortality was higher than that for encounters with serum lactate levels of less than 2.0 mmol/L across the range of baseline risk. The rate of in-hospital mortality was numerically similar to that for en- counters with 2 qSOFA points using the model without se- rum lactate (eFigure 11 in the Supplement). Because serum lac- tate levels are widely used for screening at many centers, the distribution of qSOFA scores over strata of serum lactate level was investigated. The qSOFA consistently identified higher- risk encounters even at varying serum lactate levels (eFigure 12 in the Supplement). Figure 4. Fold Change in Rate of In-Hospital Mortality (Log Scale) Comparing Encounters With ≥2 vs <2 Criteria for Each Decile of Baseline Ris",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "f8794d3c-94f7-4495-86a6-3efeab69a675",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 9,
+    "text": "ying serum lactate levels (eFigure 12 in the Supplement). Figure 4. Fold Change in Rate of In-Hospital Mortality (Log Scale) Comparing Encounters With ≥2 vs <2 Criteria for Each Decile of Baseline Risk in the UPMC Validation Cohort (N = 74 454) 10 000 1 0.9 (0.6- 1.1) 2 1.3 (1.1- 13.2) 3 14.0 (13.3- 14.6) 4 15.1 (14.6- 15.6) 5 16.1 (15.6- 16.5) 6 17.0 (16.6- 17.4) 7 17.9 (17.4- 18.3) 8 18.8 (18.3- 19.2) 9 20.0 (19.2- 20.9) 10 21.9 (20.9- 26.8) Fold Change in In-Hospital Mortality Decile of Baseline Risk of In-Hospital Mortality Baseline risk, median (range), % ICU encounters (n = 7932) A 1000 100 10 1.0 0.1 10 000 1 0.2 (0.2- 0.6) 2 0.8 (0.6- 1.0) 3 1.4 (1.1- 1.6) 4 1.9 (1.6- 2.1) 5 2.4 (2.1- 2.6) 6 2.9 (2.6- 3.1) 7 3.4 (3.1- 3.6) 8 3.9 (3.6- 4.2) 9 4.6 (4.2- 5.2) 10 6.2 (5.2- 17.7) Fold Change in In-Hospital Mortality Decile of Baseline Risk of In-Hospital Mortality Baseline risk, median (range), % Non-ICU encounters (n = 66 522) B 1000 100 10 1.0 0.1 SIRS ≥2 vs SIRS <2 SOFA ≥2 vs SOFA <2 LODS ≥2 vs LODS <2 qSOFA ≥2 vs qSOFA <2 ICU indicates intensive care unit; LODS, Logistic Organ Dysfunction System; qSOFA, quick Sequential [Sepsis-related] Organ Function Assessment; SIRS, syste",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "81bbf55b-ec29-43d3-903e-20b1e3901292",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 9,
+    "text": "A <2 LODS ≥2 vs LODS <2 qSOFA ≥2 vs qSOFA <2 ICU indicates intensive care unit; LODS, Logistic Organ Dysfunction System; qSOFA, quick Sequential [Sepsis-related] Organ Function Assessment; SIRS, systemic inflammatory response syndrome; SOFA, Sequential [Sepsis-related] Organ Function Assessment. Panel A shows ICU encounters comparing fold change for SIRS, SOFA, LODS, and qSOFA. Panel B shows non-ICU encounters. Medians and ranges of baseline risk of in-hospital mortality within decile shown are below the x-axis. Interpretive example: The x-axis divides the cohort into deciles of baseline risk, determined by age, sex, comorbidities, and race/ethnicity. For a young woman with no comorbidities (panel A, decile 2) admitted to the ICU with pneumonia, her chance of dying in the hospital is 10-fold greater if she has 3 SOFA points compared with 1 SOFA point. On the other hand, she has only a small increase in the chance of dying if she has 3 SIRS criteria compared with 1 SIRS criterion. For an older woman with chronic obstructive pulmonary disease admitted to the ward with pneumonia (panel B, decile 6), her chance of dying in the hospital is 7-fold higher if she has 3 qSOFA points compare",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "592ad700-6d15-45dd-9aea-696a9df43a71",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 9,
+    "text": "n older woman with chronic obstructive pulmonary disease admitted to the ward with pneumonia (panel B, decile 6), her chance of dying in the hospital is 7-fold higher if she has 3 qSOFA points compared with 1 qSOFA point. On the other hand, she has only a 3-fold increase in odds of dying if she has 3 SIRS criteria compared with 1 SIRS criterion. Research Original Investigation Assessment of Clinical Criteria for Sepsis 770 JAMA February 23, 2016 Volume 315, Number 8 (Reprinted) jama.com Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 588
+  },
+  {
+    "chunk_id": "aa80bb56-7683-4190-a332-548b81c3304c",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 10,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. Time Windows for Measuring qSOFA Variables When qSOFA variables were measured in the time window from 3 hours before/after or 12 hours before/after the onset of infection in KPNC data (eTable 4 in the Supplement), results werenotsignificantlydifferentfromtheoriginalmodel(P = .13 for 3 hours and P = .74 for 12 hours). When qSOFA variables were restricted to only the 24-hour period after the onset of infection, the predictive validity for in-hospital mortality was significantly greater (AUROC = 0.83; 95% CI, 0.83-0.84; P < .001) compared with the primary model. AdditionalsensitivityanalysesareshownineTable4inthe Supplement. The predictive validity of qSOFA was not signifi- cantlydifferentwhenusingmoresimplemeasures,suchasany altered mentation (GCS score <15 [P = .56] compared with the model with GCS score ≤13). The predictive validity was also not significantly different when performed after multiple impu- tation for missing data and in a variety of a priori subgroups. Discussion The Third International Consensus Definitions Task Force de- fined sepsis as a “life-threatening organ dysfunction due to a dysregulated host",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "ae13a953-98fa-4e78-933a-6152161ef160",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 10,
+    "text": "ng data and in a variety of a priori subgroups. Discussion The Third International Consensus Definitions Task Force de- fined sepsis as a “life-threatening organ dysfunction due to a dysregulated host response to infection.”5 In the absence of a gold-standard test for sepsis, several domains of validity and usefulness were used to assess potential clinical criteria to op- erationalize this definition. Among encounters with sus- pected infection in the ICU (Figure 3), SOFA and LODS had sta- tisticallygreaterpredictivevaliditycomparedwithSIRScriteria. Outside of the ICU, a simple model (qSOFA) of altered menta- Table 5. AUROCs for In-Hospital Mortality for qSOFA in External Data Sets Data Set and Infection Type No. of Patients With Suspected Infection AUROC (95% CI) Baseline Model Baseline Model + qSOFA KPNC (all suspected infections) 321 380 0.67 (0.67-0.67) 0.78 (0.78-0.78) ICU patients 7031 0.64 (0.62-0.66) 0.72 (0.70-0.73) Non-ICU patients 314 349 0.68 (0.67-0.68) 0.78 (0.78-0.79) VA (all suspected infections)a 377 325 0.73 (0.73-0.74) 0.78 (0.78-0.79) ALERTS (hospital-acquired infections) 1186 0.55 (0.51-0.60) 0.73 (0.69-0.77) KCEMS (community-acquired infections) 6508 0.59 (0.5",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "f16561b6-8e63-44d8-be82-843875ec75e9",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 10,
+    "text": " (all suspected infections)a 377 325 0.73 (0.73-0.74) 0.78 (0.78-0.79) ALERTS (hospital-acquired infections) 1186 0.55 (0.51-0.60) 0.73 (0.69-0.77) KCEMS (community-acquired infections) 6508 0.59 (0.57-0.62) 0.71 (0.69-0.73) Abbreviations: AUROC, area under the receiver operating characteristic curve; ICU, intensive care unit; KCEMS, King County Emergency Medical Services; KPNC, Kaiser Permanente Northern California; qSOFA, quick Sequential [Sepsis-related] Organ Function Assessment; VA, Veterans Administration. a The VA data did not include Glasgow Coma Scale scores; the qSOFA is a modified 2-variable model (systolic blood pressure and respiratory rate only), with a range from 0 to 2 points. Table 4. Odds Ratios for Baseline Model and qSOFA Variables for In-Hospital Mortality in the UPMC Derivation Cohort (N = 74 453) Total No. With Categorical Variable Deaths, No. (% of Total) In-Hospital Mortality, Adjusted Odds Ratio (95% CI) Baseline risk modela Age, yb 1.03 (1.03-1.03) Charlson comorbidity indexb 1.13 (1.11-1.15) Race/ethnicity White 56 617 2470 (4) 1 [Reference] Black 10 360 319 (3) 0.89 (0.79-1.01) Other 7476 383 (5) 1.37 (1.22-1.53) Male No 42 843 1467 (3) 1 [Reference] Ye",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "71558294-aa80-4737-9fc9-e17bd3ebc310",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 10,
+    "text": "omorbidity indexb 1.13 (1.11-1.15) Race/ethnicity White 56 617 2470 (4) 1 [Reference] Black 10 360 319 (3) 0.89 (0.79-1.01) Other 7476 383 (5) 1.37 (1.22-1.53) Male No 42 843 1467 (3) 1 [Reference] Yes 31 610 1705 (5) 1.56 (1.45-1.68) qSOFA modelc Respiratory rate, /min <22 45 398 676 (1) 1 [Reference] ≥22 29 055 2496 (9) 3.18 (2.89-3.50) Systolic blood pressure, mm Hg >100 44 669 789 (2) 1 [Reference] ≤100 29 784 2383 (8) 2.61 (2.40-2.85) Altered mental status, Glasgow Coma Scale score 14-15 66 879 1677 (3) 1 [Reference] ≤13 7574 1495 (20) 4.31 (3.96-4.69) Abbreviations: qSOFA, quick Sequential [Sepsis-related] Organ Failure Assessment; UPMC, University of Pittsburgh School of Medicine. a Fully parameterized using fractional polynomials in final analyses. bOdds ratios correspond to a comparison between encounters separated by 1 unit change in age or Charlson comorbidity index score. c Multivariable logistic regression model of qSOFA variables illustrates their association with in-hospital mortality. The odds ratios compare groups of encounters with vs without the specified criteria. Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.com (Reprinted) JAM",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "1324ba0c-7c25-4501-9c9a-0589101b5c9e",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 10,
+    "text": "ital mortality. The odds ratios compare groups of encounters with vs without the specified criteria. Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.com (Reprinted) JAMA February 23, 2016 Volume 315, Number 8 771 Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 341
+  },
+  {
+    "chunk_id": "37d9e18d-595f-4706-8110-9bcfddc2ef5c",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 11,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. tion, low systolic blood pressure, and elevated respiratory rate had statistically greater predictive validity than the SOFA score (Figure3).ThepredictivevalidityofqSOFAwasrobusttoevalu- ation under varied measurement conditions, in academic and community hospitals, in international locations of care, for community and hospital-acquired infections, and after mul- tiple imputation for missing data. It was, however, statisti- cally inferior compared with SOFA for encounters in the ICU and has a statistically lower content validity as a measure of multiorgan dysfunction. Thus, the task force recommended use of a SOFA score of 2 points or more in encounters with in- fection as criteria for sepsis and use of qSOFA in non-ICU set- tings to consider the possibility of sepsis. Criteria Outside of the ICU For infected patients outside of the ICU, there is an increasing focus on early recognition of sepsis. Potential criteria for organ dysfunction like SOFA or LODS required clinical and laboratory variables that may be missing and difficult to obtain in a timely manner. These characteristics may increase measurement bur- den f",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "0e081bbe-0cfc-4cdc-8b36-0db6b1bdb77e",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 11,
+    "text": "organ dysfunction like SOFA or LODS required clinical and laboratory variables that may be missing and difficult to obtain in a timely manner. These characteristics may increase measurement bur- den for clinicians. In comparison, a simple model (qSOFA) uses 3 clinical variables, has no laboratory tests, and has a predictive validity outside of the ICU that is statistically greater than the SOFA score (P < .001). The qSOFA and SOFA scores also had ac- ceptable agreement in the majority of encounters. However, 3 potentially controversial issues are worth not- ing.First,qSOFAwasderivedandtestedamongpatientencoun- tersinwhichinfectionwasalreadysuspected.TheqSOFAisnot analertthatalonewilldifferentiatepatientswithinfectionfrom those without infection. However, at least in many US and European hospital settings, infection is usually suspected promptly, as evidenced by rapid initiation of antibiotics.26,27 Second, mental status is assessed variably in different set- tings, which may affect the performance of the qSOFA. Al- though the qSOFA appeared robust in sensitivity analyses to alternative GCS cut points, further work is needed to clarify its clinical usefulness. In particular, the mod",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "1733e41e-da15-42ef-82ed-fb26d2f0d2d7",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 11,
+    "text": " performance of the qSOFA. Al- though the qSOFA appeared robust in sensitivity analyses to alternative GCS cut points, further work is needed to clarify its clinical usefulness. In particular, the model evaluated only whether mental status was abnormal, not whether it had changed from baseline, which is extremely difficult to opera- tionalize and validate, both in the EHR and as part of routine charting. An alternative to the GCS (eg, Laboratory and Acute PhysiologyScore,version2,inKPNCencounters)28foundsimi- lar results. Third, serum lactate levels, which have been proposed as a screening tool for sepsis or septic shock, were not retained in the qSOFA during model construction. One reason may be because serum lactate levels were not measured commonly in the UPMC data set. When serum lactate levels were added to qSOFA post hoc in the KPNC health system data set, in which measurement of lactate levels was common, the predictive va- liditywasstatisticallyincreasedbutwithlittledifferenceinhow encounters were classified. This analysis assessed only how serum lactate levels at different thresholds contributed above and beyond the qSOFA model. However, among intermediate- risk encounters",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "0a017941-47b2-44ff-beda-2b803f8c6f3a",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 11,
+    "text": "nhow encounters were classified. This analysis assessed only how serum lactate levels at different thresholds contributed above and beyond the qSOFA model. However, among intermediate- risk encounters (qSOFA score = 1), the addition of a serum lac- tate level of 2.0 mmol/L (18 mg/dL) or higher identified those with a risk profile similar to those with 2 qSOFA points. Thus, areas for further inquiry include whether serum lactate lev- els could be used for patients with borderline qSOFA values or as a substitute for individual qSOFA variables (particularly mental status, given the inherent problems discussed above), especially in health systems in which lactate levels are reli- ably measured at low cost and in a timely manner. Criteria in the ICU Among ICU encounters, the diagnosis of sepsis may be chal- lenging because of preexisting organ dysfunction, treatment priortoadmission,andconcurrentorgansupport.Inthisstudy, as others have reported in a distinct geographic region and health care system,29 traditional tools such as the SIRS crite- ria have poor predictive validity among patients who are in- fected. Yet in our study, SOFA and LODS scores had superior predictive validity in th",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "d358515d-07ba-4db3-bcba-4812ee4f8219",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 11,
+    "text": "e system,29 traditional tools such as the SIRS crite- ria have poor predictive validity among patients who are in- fected. Yet in our study, SOFA and LODS scores had superior predictive validity in the ICU and greater agreement, perhaps because more variables were likely to be measured, abnor- mal, and independent of ongoing interventions. These re- sults are consistent with prior studies of SOFA and LODS in the ICU.30,31 On average, only 2 of 100 infected decedents in the ICU had a SOFA or LODS score of less than 2. The qSOFA score had statistically worse predictive validity in the ICU, likely re- lated to the confounding effects of ongoing organ support (eg, mechanical ventilation, vasopressors). Advances Using EHRs The data from these analyses provided the Third Interna- tional Consensus Task Force with evidence about clinical cri- teria for sepsis using EHRs from 3 large health systems with both academic and community hospitals. More than 60% of US nonfederal, acute care hospitals (and all US federal hospi- tals) now use advanced EHRs. Adoption of EHRs has in- creased 8-fold since 2009 in the United States and will con- tinue to increase.32 The EHR may present hospitals with an",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "3e8d0599-4aaf-44c7-aa72-2767b1a34827",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 11,
+    "text": "(and all US federal hospi- tals) now use advanced EHRs. Adoption of EHRs has in- creased 8-fold since 2009 in the United States and will con- tinue to increase.32 The EHR may present hospitals with an opportunity to rapidly validate criteria for patients likely to have sepsis, to test prompts or alerts among infected patients with specific EHR signatures suggestive of sepsis, and to build platforms for automated surveillance.33 In addition, criteria such as in the qSOFA can be measured quickly and easily and assessed repeatedly over time in patients at risk of sepsis, per- haps even in developing countries without EHRs. Limitations Thisinvestigationhasseverallimitations.First,westudiedonly patients in whom infection was already suspected or docu- mented. We did not address how to diagnose infection among those in whom life-threatening organ dysfunction was the ini- tial presentation. Therefore, these data alone do not mandate that hospitalized patients with SOFA or qSOFA points be evalu- ated for the presence of infection. Second, we chose to develop simple criteria that clini- cians could quickly use at the bedside, balancing timeliness and content validity with greater criterion ",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "01d16887-3459-4284-a1fa-e521f200675d",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 11,
+    "text": "u- ated for the presence of infection. Second, we chose to develop simple criteria that clini- cians could quickly use at the bedside, balancing timeliness and content validity with greater criterion validity. We ac- knowledge that predictive validity would be improved with more complex models that include interaction terms or serial measurements over time.3,34,35 We tested how the change in SOFA score over time would perform, and although similar to the maximum SOFA score, the optimal time windows over which change should be measured are not known. Research Original Investigation Assessment of Clinical Criteria for Sepsis 772 JAMA February 23, 2016 Volume 315, Number 8 (Reprinted) jama.com Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 796
+  },
+  {
+    "chunk_id": "da3351ca-c0e1-482e-ad34-19b5cb1e3826",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. Third, no organ dysfunction measurements evaluated in this study distinguish between chronic and acute organ dys- function, assess whether the organ dysfunction has an expla- nation other than infection, or attribute dysfunction specifi- cally to a dysregulated host response. For example, a patient with dementia with an abnormal GCS score at baseline will al- ways have 1 qSOFA point but may not be as likely to have sep- sis as a patient with a normal baseline sensorium. As such, we illustrated the predictive validity of various criteria across a full range of underlying risk determined from comorbidity and demographics. Fourth, we chose 2 outcomes associated more commonly with sepsis than with uncomplicated infection. These out- comeshavehighcontentvalidityandweregeneralizableacross data sets, but there are certainly alternative choices.36 Fifth, we compared predictive validity with tests of infer- ence that may be sensitive to sample size. We found that sta- tistically significant differences in AUROC were often present, yet these resulted in differences in classification with debat- able clinical relevance. We reco",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "e22fb33d-f29a-4f4e-b9ee-a16b022a3b88",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": "tive to sample size. We found that sta- tistically significant differences in AUROC were often present, yet these resulted in differences in classification with debat- able clinical relevance. We reconciled these data by reporting the fold change in outcome comparing encounters of differ- ent scores to provide more clinical context. Sixth, the acute, life-threatening organ dysfunction in sep- sis may also occur at different times in different patients (before, during, or after infection is recognized).37 Results were unchangedoveravarietyoftimewindows,includingbothlong (72-hour) and short (6-hour) windows around the onset of in- fection. Prospective validation in other cohorts, assessment in low- to middle-income countries, repeated measurement, and the contribution of individual qSOFA elements to predic- tive validity are important future directions. Conclusions Among ICU encounters with suspected infection, the predic- tive validity for in-hospital mortality of SOFA was not signifi- cantly different than the more complex LODS but was statis- tically greater than SIRS and qSOFA, supporting its use in clinical criteria for sepsis. Among encounters with suspected infection outside o",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "5dff1f3a-8c71-4a7f-a57e-e961e6b5d979",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": "cantly different than the more complex LODS but was statis- tically greater than SIRS and qSOFA, supporting its use in clinical criteria for sepsis. Among encounters with suspected infection outside of the ICU, the predictive validity for in- hospital mortality of qSOFA was statistically greater than SOFA and SIRS, supporting its use as a prompt to consider possible sepsis. ARTICLE INFORMATION Correction: This article was corrected on May 24, 2016, for a data error. Author Affiliations: Department of Critical Care Medicine, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania (Seymour, Kahn, Angus); Clinical Research, Investigation, and Systems Modeling of Acute Illness (CRISMA) Center, Pittsburgh, Pennsylvania (Seymour, Kahn, Angus); Division of Research, Kaiser Permanente, Oakland, California (Liu); Department of Internal Medicine, University of Michigan, Ann Arbor (Iwashyna, Escobar); Veterans Affairs Center for Clinical Management Research, Ann Arbor, Michigan (Iwashyna, Escobar); Australia and New Zealand Intensive Care Research Centre, Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Victoria, Australia (Iwashyna, Escobar); Ce",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "32d96aef-e40c-4d6c-a967-9af0592c9a4d",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": "shyna, Escobar); Australia and New Zealand Intensive Care Research Centre, Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Victoria, Australia (Iwashyna, Escobar); Center for Clinical Studies, Jena University Hospital, Jena, Germany (Brunkhorst); Division of General Internal Medicine, University of Washington, Seattle (Rea); Research Group Clinical Epidemiology, Integrated Research and Treatment Center, Center for Sepsis Control and Care, Jena University Hospital, Jena, Germany (Scherag); Trauma, Emergency, and Critical Care Program, Sunnybrook Health Sciences Centre; Interdepartmental Division of Critical Care, University of Toronto, Toronto, Ontario, Canada (Rubenfeld); Critical Care Medicine, Guy’s and St Thomas’ NHS Foundation Trust, London, England (Shankar-Hari); Bloomsbury Institute of Intensive Care Medicine, University College London, London, England (Singer); Feinstein Institute for Medical Research, Hofstra–North Shore–Long Island Jewish School of Medicine, Steven and Alexandra Cohen Children’s Medical Center, New Hyde Park, New York (Deutschman). Author Contributions: Dr Seymour had full access to all of the data in the study and takes ",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "c2e61fec-44b7-42d1-8065-1e0757f403de",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": "ool of Medicine, Steven and Alexandra Cohen Children’s Medical Center, New Hyde Park, New York (Deutschman). Author Contributions: Dr Seymour had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. Study concept and design: Seymour, Iwashyna, Rubenfeld, Kahn, Shankar-Hari, Deutschman, Escobar, Angus. Acquisition, analysis, or interpretation of data: Liu, Iwashyna, Brunkhorst, Rea, Scherag, Kahn, Singer, Escobar, Angus. Drafting of the manuscript: Seymour, Singer, Deutschman, Angus. Critical revision of the manuscript for important intellectual content: Liu, Iwashyna, Brunkhorst, Rea, Scherag, Rubenfeld, Kahn, Shankar-Hari, Singer, Deutschman, Escobar, Angus. Statistical analysis: Seymour, Liu, Iwashyna, Scherag. Obtained funding: Escobar. Administrative, technical, or material support: Brunkhorst, Rea, Scherag, Deutschman, Escobar, Angus. Study supervision: Deutschman, Escobar. Conflict of Interest Disclosures: All authors have completed and submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Dr Seymour reports receipt of personal fees from Beckman Coulter. Dr Singer report",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "6516b0ad-324b-4c56-84c1-a5e6b575d76d",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": "sclosures: All authors have completed and submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Dr Seymour reports receipt of personal fees from Beckman Coulter. Dr Singer reports board memberships with InflaRx, Bayer, Biotest, and Merck. Dr Deutschman reports holding patents on materials unrelated to this work and receipt of personal fees from the Centers for Disease Control and Prevention, the World Federation of Societies of Intensive and Critical Care, the Pennsylvania Assembly of Critical Care Medicine, the Society of Critical Care Medicine, the Northern Ireland Society of Critical Care Medicine, the International Sepsis Forum, Stanford University, the Acute Dialysis Quality Initiative, and the European Society of Intensive Care Medicine. Dr Escobar reports receipt of grants from the National Institutes of Health, the Gordon and Betty Moore Foundation, Merck, Sharpe & Dohme, and AstraZeneca-MedImmune. No other disclosures were reported. Funding/Support: This work was supported in part by the National Institutes of Health (grants K23GM104022 and K23GM112018), the Department of Veterans Affairs (grant HSR&D 11-109), the Permanente Medical Group, and the Cen",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "5fc11f5a-8e7c-4a01-bc14-1d8111d0b3ee",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": "work was supported in part by the National Institutes of Health (grants K23GM104022 and K23GM112018), the Department of Veterans Affairs (grant HSR&D 11-109), the Permanente Medical Group, and the Center of Sepsis Control and Care, funded by the German Federal Ministry of Education and Research (grant 01 E0 1002/01 E0 1502). Role of the Funder/Sponsor: The funding sources had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. Disclaimer: This article does not necessarily represent the view of the US government or Department of Veterans Affairs. Dr Angus, Associate Editor, JAMA, had no role in the evaluation of or decision to publish this article. Additional Contributions: We acknowledge the European Society of Intensive Care Medicine and Society of Critical Care Medicine for their partial administrative support of this work. We acknowledge the contributions of the 2016 Third International Consensus Sepsis Definitions Task Force members, who were not coauthors, for their review of the manuscript: John C. Marshall, M",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "a6394953-e8dd-4ce1-9c16-66ca816596d0",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": " work. We acknowledge the contributions of the 2016 Third International Consensus Sepsis Definitions Task Force members, who were not coauthors, for their review of the manuscript: John C. Marshall, MD, University of Toronto, Toronto, Ontario, Canada; Djilalli Annane, MD, PhD, Critical Care Medicine, School of Medicine, University of Versailles, France; Greg S. Martin, MD, Emory University School of Medicine, Atlanta, Georgia; Michael Bauer, MD, Center for Sepsis Control and Care, University Hospital, Jena, Germany; Steven M. Opal, MD, Infectious Disease Section, Brown University School of Medicine, Providence, Rhode Island; Rinaldo Bellomo, MD, Australian and New Zealand Intensive Care Research Centre, School of Public Health and Preventive Medicine, Monash University, University of Melbourne, and Austin Hospital, Melbourne, Victoria, Australia; Gordon R. Bernard, MD, Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University, Nashville, Tennessee; Jean-Daniel Chiche, MD, PhD, Réanimation Médicale-Hôpital Cochin, Descartes University, Cochin Institute, Paris, France; Craig M. Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.c",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "ce4ddd58-b3e4-4eae-aa7a-6a29058321af",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 12,
+    "text": " Chiche, MD, PhD, Réanimation Médicale-Hôpital Cochin, Descartes University, Cochin Institute, Paris, France; Craig M. Assessment of Clinical Criteria for Sepsis Original Investigation Research jama.com (Reprinted) JAMA February 23, 2016 Volume 315, Number 8 773 Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 359
+  },
+  {
+    "chunk_id": "b31e0477-0126-4cb9-8f04-4eb95571e247",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": "Copyright 2016 American Medical Association. All rights reserved. Coopersmith, MD, Emory Critical Care Center, Emory University School of Medicine, Atlanta, Georgia; Tom van der Poll, MD, Academisch Medisch Centrum, Amsterdam, the Netherlands; Richard S. Hotchkiss, MD, Washington University School of Medicine, St Louis, Missouri; Jean-Louis Vincent, MD, PhD, Université Libre de Bruxelles, and Department of Intensive Care, Erasme University Hospital, Brussels, Belgium; and Mitchell M. Levy, MD, Division of Pulmonary and Critical Care Medicine, Brown University School of Medicine, Providence, Rhode Island. These contributions were provided without compensation. REFERENCES 1. Liu V, Escobar GJ, Greene JD, et al. Hospital deaths in patients with sepsis from 2 independent cohorts. JAMA. 2014;312(1):90-92. 2. Angus DC, Linde-Zwirble WT, Lidicker J, Clermont G, Carcillo J, Pinsky MR. Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001;29(7):1303-1310. 3. Levy MM, Fink MP, Marshall JC, et al; SCCM/ESICM/ACCP/ATS/SIS. 2001 SCCM/ESICM/ACCP/ATS/SIS International Sepsis Definitions Conference. Crit Care Med. 2003",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "1f695ffc-f8ef-4005-8790-71b9a3da5981",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": "re. Crit Care Med. 2001;29(7):1303-1310. 3. Levy MM, Fink MP, Marshall JC, et al; SCCM/ESICM/ACCP/ATS/SIS. 2001 SCCM/ESICM/ACCP/ATS/SIS International Sepsis Definitions Conference. Crit Care Med. 2003;31(4): 1250-1256. 4. Bone RC, Balk RA, Cerra FB, et al; ACCP/SCCM Consensus Conference Committee; American College of Chest Physicians/Society of Critical Care Medicine. Definitions for sepsis and organ failure and guidelines for the use of innovative therapies in sepsis. Chest. 1992;101(6):1644-1655. 5. Shankar-Hari M, Phillips GS, Levy ML, et al; Sepsis Definitions Task Force. Developing a new definition and assessing new clinical criteria for septic shock: for the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. doi:10.1001/jama.2016.0289. 6. Seymour CW, Rea TD, Kahn JM, Walkey AJ, Yealy DM, Angus DC. Severe sepsis in pre-hospital emergency care: analysis of incidence, care, and outcome. Am J Respir Crit Care Med. 2012;186(12): 1264-1271. 7. Hagel S, Ludewig K, Frosinski J, et al. Effectiveness of a hospital-wide educational programme for infection control to reduce the rate of health-care associated infections and related sepsis (ALERTS)—meth",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "8b9d8800-b7be-45b2-bc66-f66a4f5ce4cd",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": " S, Ludewig K, Frosinski J, et al. Effectiveness of a hospital-wide educational programme for infection control to reduce the rate of health-care associated infections and related sepsis (ALERTS)—methods and interim results [in German]. Dtsch Med Wochenschr. 2013; 138(34-35):1717-1722. 8. Vincent JL, Moreno R, Takala J, et al. The SOFA (Sepsis-Related Organ Failure Assessment) score to describe organ dysfunction/failure. Intensive Care Med. 1996;22(7):707-710. 9. Le Gall JR, Klar J, Lemeshow S, et al; ICU Scoring Group. The Logistic Organ Dysfunction System: a new way to assess organ dysfunction in the intensive care unit. JAMA. 1996;276(10):802-810. 10. Collins GS, Reitsma JB, Altman DG, Moons KG. Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD): the TRIPOD statement. Ann Intern Med. 2015;162(1):55-63. 11. Rangel-Frausto MS, Pittet D, Costigan M, Hwang T, Davis CS, Wenzel RP. The natural history of the systemic inflammatory response syndrome (SIRS): a prospective study. JAMA. 1995;273(2):117-123. 12. Perkins NJ, Schisterman EF. The inconsistency of “optimal” cutpoints obtained using two criteria based on the receiver operatin",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "62085a2f-ac89-475e-85d8-b2989a0566ec",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": "nse syndrome (SIRS): a prospective study. JAMA. 1995;273(2):117-123. 12. Perkins NJ, Schisterman EF. The inconsistency of “optimal” cutpoints obtained using two criteria based on the receiver operating characteristic curve. Am J Epidemiol. 2006;163(7):670-675. 13. Seymour CW, Kahn JM, Cooke CR, Watkins TR, Heckbert SR, Rea TD. Prediction of critical illness during out-of-hospital emergency care. JAMA. 2010;304(7):747-754. 14. Knaus WA, Zimmerman JE, Wagner DP, Draper EA, Lawrence DE. APACHE—Acute Physiology and Chronic Health Evaluation: a physiologically based classification system. Crit Care Med. 1981;9(8):591- 597. 15. Kramer AA, Zimmerman JE. Assessing the calibration of mortality benchmarks in critical care: the Hosmer-Lemeshow test revisited. Crit Care Med. 2007;35(9):2052-2056. 16. Bland JM, Altman DG. Cronbach’s α. BMJ. 1997; 314(7080):572. 17. Campbell DT, Fiske DW. Convergent and discriminant validation by the multitrait-multimethod matrix. Psychol Bull. 1959;56(2):81-105. 18. Quan H, Sundararajan V, Halfon P, et al. Coding algorithms for defining comorbidities in ICD-9-CM and ICD-10 administrative data. Med Care. 2005;43 (11):1130-1139. 19. Royston P, Sauerbrei W. Buildi",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "1e87b569-8537-41b1-8124-ca65caef9bef",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": ". Quan H, Sundararajan V, Halfon P, et al. Coding algorithms for defining comorbidities in ICD-9-CM and ICD-10 administrative data. Med Care. 2005;43 (11):1130-1139. 19. Royston P, Sauerbrei W. Building multivariable regression models with continuous covariates in clinical epidemiology—with an emphasis on fractional polynomials. Methods Inf Med. 2005;44 (4):561-571. 20. Centers for Medicaid and Medicare Services. Eligible Professional Meaningful Use Core Measures: Measure 7 of 13. 2014. https://www.cms.gov /Regulations-and-Guidance/Legislation /EHRIncentivePrograms/downloads/7_Record _Demographics.pdf. Accessed January 1, 2016. 21. Barnato AE, Alexander SL, Linde-Zwirble WT, Angus DC. Racial variation in the incidence, care, and outcomes of severe sepsis: analysis of population, patient, and hospital characteristics. Am J Respir Crit Care Med. 2008;177(3):279-284. 22. Dellinger RP, Levy MM, Rhodes A, et al; Surviving Sepsis Campaign Guidelines Committee Including the Pediatric Subgroup. Surviving Sepsis campaign: international guidelines for management of severe sepsis and septic shock: 2012. Crit Care Med. 2013;41(2):580-637. 23. Cecconi M, De Backer D, Antonelli M, et al. Consens",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "99edc854-b0a5-4690-99ee-27547c9b7c1a",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": ". Surviving Sepsis campaign: international guidelines for management of severe sepsis and septic shock: 2012. Crit Care Med. 2013;41(2):580-637. 23. Cecconi M, De Backer D, Antonelli M, et al. Consensus on circulatory shock and hemodynamic monitoring: task force of the European Society of Intensive Care Medicine. Intensive Care Med. 2014; 40(12):1795-1815. 24. Liu V, Morehouse JW, Soule J, Whippy A, Escobar GJ. Fluid volume, lactate values, and mortality in sepsis patients with intermediate lactate values. Ann Am Thorac Soc. 2013;10(5):466- 473. 25. Hanley JA, McNeil BJ. The meaning and use of the area under a receiver operating characteristic (ROC) curve. Radiology. 1982;143(1):29-36. 26. Ferrer R, Martin-Loeches I, Phillips G, et al. Empiric antibiotic treatment reduces mortality in severe sepsis and septic shock from the first hour: results from a guideline-based performance improvement program. Crit Care Med. 2014;42(8): 1749-1755. 27. Houck PM, Bratzler DW, Nsa W, Ma A, Bartlett JG. Timing of antibiotic administration and outcomes for Medicare patients hospitalized with community-acquired pneumonia. Arch Intern Med. 2004;164(6):637-644. 28. Escobar GJ, Gardner MN, Greene JD, D",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "ec1634bd-97ea-4fea-b5a3-1a06d0b05531",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": "G. Timing of antibiotic administration and outcomes for Medicare patients hospitalized with community-acquired pneumonia. Arch Intern Med. 2004;164(6):637-644. 28. Escobar GJ, Gardner MN, Greene JD, Draper D, Kipnis P. Risk-adjusting hospital mortality using a comprehensive electronic record in an integrated health care delivery system. Med Care. 2013;51(5): 446-453. 29. Kaukonen KM, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response syndrome criteria in defining severe sepsis. N Engl J Med. 2015;372(17):1629-1638. 30. Vincent JL, de Mendonça A, Cantraine F, et al. Use of the SOFA score to assess the incidence of organ dysfunction/failure in intensive care units: results of a multicenter, prospective study. Crit Care Med. 1998;26(11):1793-1800. 31. Ferreira FL, Bota DP, Bross A, Mélot C, Vincent JL. Serial evaluation of the SOFA score to predict outcome in critically ill patients. JAMA. 2001;286(14):1754-1758. 32. Charles D, Gabriel M, Furukawa MF. Adoption of Electronic Health Record Systems among US Non-Federal Acute Care Hospitals: 2008-2013. Washington, DC: Office of the National Coordinator for Health Information Technology; 2014. ONC Data Brief 16. 33. ",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "1ec7ce20-1265-4fe7-8488-52ddfc9faf01",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": "ectronic Health Record Systems among US Non-Federal Acute Care Hospitals: 2008-2013. Washington, DC: Office of the National Coordinator for Health Information Technology; 2014. ONC Data Brief 16. 33. Rhee C, Murphy MV, Li L, Platt R, Klompas M; Centers for Disease Control and Prevention Epicenters Program. Comparison of trends in sepsis incidence and coding using administrative claims vs objective clinical data. Clin Infect Dis. 2015;60(1): 88-95. 34. Shapiro NI, Wolfe RE, Moore RB, Smith E, Burdick E, Bates DW. Mortality in Emergency Department Sepsis (MEDS) score: a prospectively derived and validated clinical prediction rule. Crit Care Med. 2003;31(3):670-675. 35. Opal SM. Concept of PIRO as a new conceptual framework to understand sepsis. Pediatr Crit Care Med. 2005;6(3)(suppl):S55-S60. 36. Iwashyna TJ, Odden A, Rohde J, et al. Identifying patients with severe sepsis using administrative claims: patient-level validation of the Angus implementation of the International Consensus Conference definition of severe sepsis. Med Care. 2014;52(6):e39-e43. 37. Kellum JA, Kong L, Fink MP, et al; GenIMS Investigators. Understanding the inflammatory cytokine response in pneumonia and sepsis",
+    "char_count": 1200
+  },
+  {
+    "chunk_id": "0b77755c-8930-4531-93b2-6bb2bf38529c",
+    "paper_id": "Seymour_2016",
+    "source": "Seymour_2016.pdf",
+    "page": 13,
+    "text": "ference definition of severe sepsis. Med Care. 2014;52(6):e39-e43. 37. Kellum JA, Kong L, Fink MP, et al; GenIMS Investigators. Understanding the inflammatory cytokine response in pneumonia and sepsis: results of the Genetic and Inflammatory Markers of Sepsis (GenIMS) study. Arch Intern Med. 2007;167(15): 1655-1663. Research Original Investigation Assessment of Clinical Criteria for Sepsis 774 JAMA February 23, 2016 Volume 315, Number 8 (Reprinted) jama.com Copyright 2016 American Medical Association. All rights reserved. Downloaded From: on 01/19/2019",
+    "char_count": 558
+  }
+]

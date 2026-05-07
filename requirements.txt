@@ -1,0 +1,8 @@
+pymupdf
+pydantic
+tqdm
+pandas
+openai
+faiss-cpu
+numpy
+python-dotenv
