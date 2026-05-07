@@ -10,9 +10,8 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1"
 )
 
-EMBED_MODEL = "openai/text-embedding-3-small"
-#openai/text-embedding-3-large
-
+# EMBED_MODEL = "openai/text-embedding-3-small"
+EMBED_MODEL = "openai/text-embedding-3-large"
 
 def get_embedding(text: str, retries: int = 5):
 
