@@ -5,15 +5,15 @@ import numpy as np
 from app.retrieval.embedder import get_embedding
 
 
-INDEX_PATH = "data/index/sepsis.index"
-METADATA_PATH = "data/index/metadata.json"
+INDEX_PATH = r"data/index/sepsis.index"
+METADATA_PATH = r"data/index/metadata.json"
 
 
 # index yükle
 index = faiss.read_index(INDEX_PATH)
 
 # metadata yükle
-with open(METADATA_PATH, "r") as f:
+with open(METADATA_PATH, "r", encoding="utf-8") as f:
     metadata = json.load(f)
 
 
