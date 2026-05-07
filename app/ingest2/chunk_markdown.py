@@ -10,6 +10,8 @@ CHUNK_DIR.mkdir(parents=True, exist_ok=True)
 MAX_CHARS = 1800
 MIN_CHARS = 400
 
+#TODO: add a data cleaning step to remove references, 
+#TODO: chunk overlap, and ensure chunks end at sentence boundaries
 
 def split_sections(markdown_text):
     pattern = r"(?=^##\s+)"

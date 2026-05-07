@@ -5,7 +5,7 @@ import numpy as np
 from app.retrieval.embedder import get_embedding
 
 
-INDEX_PATH = r"data/index/sepsis.index"
+INDEX_PATH = r"data/index/papers.index"
 METADATA_PATH = r"data/index/metadata.json"
 
 
@@ -34,7 +34,7 @@ def search(query: str, top_k: int = 5):
         results.append({
             "score": float(distances[0][i]),
             "paper_id": item["paper_id"],
-            "page": item["page"],
+            "section": item["section"],
             "text": item["text"]
         })
 

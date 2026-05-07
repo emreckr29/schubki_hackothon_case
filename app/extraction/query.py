@@ -12,8 +12,8 @@ client = OpenAI(
 )
 
 
-MODEL = "openai/gpt-4o-mini"
-#openai/gpt-5.5-pro
+#MODEL = "openai/gpt-4o-mini"
+MODEL = "openai/gpt-5.5-pro"
 
 
 def extract_evidence(chunk_text: str):
@@ -24,7 +24,7 @@ def extract_evidence(chunk_text: str):
         messages=[
             {
                 "role": "system",
-                "content": SYSTEM_PROMPT
+                "content": SYSTEM_PROMPT #TODO
             },
             {
                 "role": "user",

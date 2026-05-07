@@ -1,11 +1,11 @@
 import pandas as pd
 
 from app.retrieval.search import search
-from app.extraction.extractor import extract_evidence
+from app.extraction.query import extract_evidence
 from app.validation.validator import validate_extraction
 
 
-QUERY = "lactate mortality sepsis SOFA AUROC"
+QUERY = "What does hypotension predict in sepsis? Is it a strong predictor of mortality?"
 
 
 def is_valid(e):
@@ -35,7 +35,7 @@ def main():
 
         print("\n" + "="*80)
         print(f"CHUNK {i+1}")
-        print(result["paper_id"], "Page:", result["page"])
+        print(result["paper_id"], "Section:", result["section"])
 
         evidence = extract_evidence(result["text"])
 
@@ -50,7 +50,7 @@ def main():
 
                 evidence["validation_reason"] = validation["reason"]
                 evidence["paper_id"] = result["paper_id"]
-                evidence["page"] = result["page"]
+                evidence["section"] = result["section"]
 
                 all_evidence.append(evidence)
 
