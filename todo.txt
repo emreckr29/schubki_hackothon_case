@@ -1,0 +1,22 @@
+1- Cleaning (references…)
+2- ?subsection 
+
+
+3- table and text distinction
+ Table chunka böldürtme tek chunk
+
+
+
+
+Prompt engineering 
+Metric value belirleme
+Sturctured extraction
+
+
+
+
+
+
+
+Optional
+-extra pdf upload
