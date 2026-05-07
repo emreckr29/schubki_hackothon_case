@@ -1,7 +1,7 @@
 import pandas as pd
 
 from app.retrieval.search import search
-from app.extraction.query import extract_evidence
+from app.extraction.queryLlm import extract_evidence
 from app.validation.validator import validate_extraction
 
 

@@ -33,7 +33,7 @@ for i, idx in enumerate(indices[0]):
     print(f"RESULT {i+1}")
     print(f"Paper: {chunk['paper_id']}")
     print(f"Section: {chunk['section']}")
-    print()
+  
 
     print(chunk["text"][:2500])
     print()

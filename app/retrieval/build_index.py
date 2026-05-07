@@ -1,73 +1,39 @@
-from pathlib import Path
+
 import json
-import numpy as np
 import faiss
+import numpy as np
+from pathlib import Path
 from tqdm import tqdm
-import time
+
 from app.retrieval.embedder import get_embedding
 
-
-CHUNKS_DIR = Path("data/chunks")
+CHUNK_PATH = Path("data/chunks/chunks.json")
 INDEX_DIR = Path("data/index")
 
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
+with open(CHUNK_PATH, "r", encoding="utf-8") as f:
+    chunks = json.load(f)
 
-def load_all_chunks():
+print(f"Loaded {len(chunks)} chunks")
 
-    all_chunks = []
+embeddings = []
 
-    chunk_files = list(CHUNKS_DIR.glob("*.json"))
+for chunk in tqdm(chunks):
+    emb = get_embedding(chunk["text"])
+    embeddings.append(emb)
 
-    for chunk_file in chunk_files:
+embeddings = np.array(embeddings).astype("float32")
 
-        with open(chunk_file, "r", encoding="utf-8") as f:
-            chunks = json.load(f)
+dimension = embeddings.shape[1]
 
-            all_chunks.extend(chunks)
+index = faiss.IndexFlatL2(dimension)
 
-    return all_chunks
+index.add(embeddings)
 
+faiss.write_index(index, str(INDEX_DIR / "papers.index"))
 
-def main():
+with open(INDEX_DIR / "metadata.json", "w", encoding="utf-8") as f:
+    json.dump(chunks, f, indent=2, ensure_ascii=False)
 
-    all_chunks = load_all_chunks()
-
-    print(f"Loaded {len(all_chunks)} chunks")
-
-    embeddings = []
-
-    metadata = []
-
-    for chunk in tqdm(all_chunks):
-
-        embedding = get_embedding(chunk["text"])
-
-        if embedding is None:
-            print(f"Skipping chunk {chunk['chunk_id']}")
-            continue
-
-        embeddings.append(embedding)
-        metadata.append(chunk)
-        
-        time.sleep(0.2)
-
-
-    embeddings_np = np.array(embeddings).astype("float32")
-
-    dimension = embeddings_np.shape[1]
-
-    index = faiss.IndexFlatL2(dimension)
-
-    index.add(embeddings_np)
-
-    faiss.write_index(index, str(INDEX_DIR / "sepsis.index"))
-
-    with open(INDEX_DIR / "metadata.json", "w", encoding="utf-8") as f:
-        json.dump(metadata, f, indent=2, ensure_ascii=False)
-
-    print("FAISS index saved")
-
-
-if __name__ == "__main__":
-    main()
+print("\nFAISS index saved")
