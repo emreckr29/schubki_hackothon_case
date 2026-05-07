@@ -11,6 +11,7 @@ client = OpenAI(
 )
 
 EMBED_MODEL = "openai/text-embedding-3-small"
+#openai/text-embedding-3-large
 
 
 def get_embedding(text: str, retries: int = 5):

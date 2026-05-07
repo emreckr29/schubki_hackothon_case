@@ -13,6 +13,7 @@ client = OpenAI(
 
 
 MODEL = "openai/gpt-4o-mini"
+#openai/gpt-5.5-pro
 
 
 def extract_evidence(chunk_text: str):

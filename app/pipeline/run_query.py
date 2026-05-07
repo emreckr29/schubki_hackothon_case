@@ -2,6 +2,7 @@ import pandas as pd
 
 from app.retrieval.search import search
 from app.extraction.extractor import extract_evidence
+from app.validation.validator import validate_extraction
 
 
 QUERY = "lactate mortality sepsis SOFA AUROC"
@@ -40,15 +41,25 @@ def main():
 
         if is_valid(evidence):
 
-            evidence["paper_id"] = result["paper_id"]
-            evidence["page"] = result["page"]
+            validation = validate_extraction(
+                result["text"],
+                evidence
+            )
 
-            all_evidence.append(evidence)
+            if validation["supported"]:
 
-            print("✓ Extracted")
+                evidence["validation_reason"] = validation["reason"]
+                evidence["paper_id"] = result["paper_id"]
+                evidence["page"] = result["page"]
 
-        else:
-            print("✗ Empty")
+                all_evidence.append(evidence)
+
+                print("✓ Validated")
+
+            else:
+
+                print("✗ Rejected")
+                print(validation["reason"])
 
 
     df = pd.DataFrame(all_evidence)

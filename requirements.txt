@@ -6,3 +6,4 @@ openai
 faiss-cpu
 numpy
 python-dotenv
+docling
