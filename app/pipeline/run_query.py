@@ -53,6 +53,7 @@ def main():
                 evidence["section"] = result["section"]
 
                 all_evidence.append(evidence)
+                print(result["text"])
 
                 print("✓ Validated")
 
