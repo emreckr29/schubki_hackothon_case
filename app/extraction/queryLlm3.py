@@ -5,7 +5,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from pydantic import ValidationError
 
-from extraction.prompts2 import SYSTEM_PROMPT
+from extraction.prompts3 import SYSTEM_PROMPT
 from extraction.data_schema import ClinicalEvidenceExtraction
 
 load_dotenv()
