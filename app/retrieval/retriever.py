@@ -5,11 +5,11 @@ import numpy as np
 from retrieval.embedder import get_embedding
 
 index = faiss.read_index(
-    "data/index/papers.index"
+    "data2/index/papers.index"
 )
 
 with open(
-    "data/index/metadata.json",
+    "data2/index/metadata.json",
     "r",
     encoding="utf-8"
 ) as f:

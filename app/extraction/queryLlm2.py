@@ -13,13 +13,15 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1"
 )
 
-LLM_MODEL = "openai/gpt-4.1-mini"
+LLM_MODEL = "openai/gpt-5.5-pro"
 
 def extract_clinical_evidence(query, chunks):
+    print("here")
 
     context = ""
 
     for chunk in chunks:
+        print("chunkkkk")
 
         section = " > ".join(
             chunk.get("section_tree", [])
@@ -29,57 +31,57 @@ def extract_clinical_evidence(query, chunks):
 
             context += f"""
 
-[TABLE]
-Paper: {chunk['paper_id']}
-Section: {section}
+            [TABLE]
+            Paper: {chunk['paper_id']}
+            Section: {section}
 
-{chunk['text']}
+            {chunk['text']}
 
-"""
+            """
 
         else:
 
             context += f"""
 
-[TEXT]
-Paper: {chunk['paper_id']}
-Section: {section}
+            [TEXT]
+            Paper: {chunk['paper_id']}
+            Section: {section}
 
-{chunk['text']}
+            {chunk['text']}
 
-"""
+        """
 
     user_prompt = f"""
-User Query:
-{query}
+    User Query:
+    {query}
 
-Extract structured evidence relevant to the query.
+    Extract structured evidence relevant to the query.
 
-Return JSON array format.
+    Return JSON array format.
 
-Schema:
+    Schema:
 
-[
-  {{
-    "study": "",
-    "population": "",
-    "sample_size": "",
-    "predictor": "",
-    "outcome": "",
-    "timing": "",
-    "method": "",
-    "effect_size": "",
-    "performance": "",
-    "notes": "",
-    "source_text": "",
-    "paper_id": "",
-    "section": ""
-  }}
-]
+            [
+    {{
+        "study": "",
+        "population": "",
+        "sample_size": "",
+        "predictor": "",
+        "outcome": "",
+        "timing": "",
+        "method": "",
+        "effect_size": "",
+        "performance": "",
+        "notes": "",
+        "source_text": "",
+        "paper_id": "",
+        "section": ""
+    }}
+    ]
 
-Context:
-{context}
-"""
+    Context:
+    {context}
+    """
 
     response = client.chat.completions.create(
         model=LLM_MODEL,
@@ -95,11 +97,12 @@ Context:
             }
         ]
     )
-
+    print("done")
     text = response.choices[0].message.content
 
     try:
         return json.loads(text)
+        print("try")
 
     except Exception:
         return []

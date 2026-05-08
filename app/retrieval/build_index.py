@@ -7,8 +7,8 @@ from tqdm import tqdm
 
 from app.retrieval.embedder import get_embedding
 
-CHUNK_PATH = Path("data/chunks/chunks.json")
-INDEX_DIR = Path("data/index")
+CHUNK_PATH = Path("data2/chunks/chunks.json")
+INDEX_DIR = Path("data2/index")
 
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
