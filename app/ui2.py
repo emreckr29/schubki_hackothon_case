@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 from retrieval.retriever import search
-from extraction.queryLlm2 import extract_clinical_evidence
+from extraction.queryLlm3 import extract_clinical_evidence
 
 # ===================================
 # PAGE

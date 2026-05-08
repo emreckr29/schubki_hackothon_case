@@ -13,7 +13,7 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1"
 )
 
-LLM_MODEL = "openai/gpt-4.1-mini"
+LLM_MODEL = "openai/gpt-4.1"
 
 MAX_CONTEXT_CHARS = 50000
 
