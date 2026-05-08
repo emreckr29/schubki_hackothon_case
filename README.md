@@ -16,89 +16,6 @@ This project converts unstructured medical PDFs into structured, searchable, and
 * Source-grounded outputs
 * Streamlit UI
 
----
-
-# 🏗️ Architecture
-
-```text
-PDF Papers
-    ↓
-Markdown Conversion
-    ↓
-Chunking & Table Extraction
-    ↓
-Embedding Generation
-    ↓
-FAISS Vector Search
-    ↓
-LLM Evidence Extraction
-    ↓
-Structured Evidence Table
-```
-
----
-
-# 📂 Project Structure
-
-```text
-project/
-│
-├── app/
-│   └── ui.py
-│
-├── preprocessing/
-│   ├── pdf_to_markdown.py
-│   └── build_chunks.py
-│
-├── retrieval/
-│   ├── embedder.py
-│   ├── retriever.py
-│   └── build_index.py
-│
-├── llm/
-│   ├── extractor.py
-│   └── prompts.py
-│
-├── data/
-│   ├── parsed/
-│   ├── chunks/
-│   └── index/
-│
-├── articles/
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
-# 🧠 Technologies Used
-
-* Python
-* Streamlit
-* FAISS
-* OpenAI Embeddings
-* OpenRouter
-* GPT-5.5 Pro
-* Docling
-* Pandas
-* NumPy
-
----
-
-# 🤖 Models
-
-## Embedding Model
-
-```python
-openai/text-embedding-3-large
-```
-
-## LLM
-
-```python
-openai/gpt-5.5-pro
-```
 
 ---
 
@@ -107,7 +24,7 @@ openai/gpt-5.5-pro
 ## 1. Clone repository
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/emreckr29/schubki_hackothon_case.git
 cd project
 ```
 
@@ -136,7 +53,7 @@ OPENROUTER_API_KEY=your_api_key
 ## Convert PDFs to Markdown
 
 ```bash
-python preprocessing/pdf_to_markdown.py
+python ingest/pdf_to_markdown_new.py
 ```
 
 ---
@@ -144,7 +61,7 @@ python preprocessing/pdf_to_markdown.py
 ## Build Chunks
 
 ```bash
-python preprocessing/build_chunks.py
+python ingest/build_chunks_new.py
 ```
 
 ---
@@ -160,7 +77,7 @@ python retrieval/build_index.py
 ## Start UI
 
 ```bash
-streamlit run app/ui.py
+streamlit run app/ui2.py
 ```
 
 ---
@@ -171,7 +88,35 @@ streamlit run app/ui.py
 relationship between lactate and 28-day mortality
 ```
 
+
+# 🧠 Technologies Used
+
+* Python
+* Streamlit
+* FAISS
+* OpenAI Embeddings
+* OpenRouter
+* GPT-4.1
+* Docling
+* Pandas
+* NumPy
+
 ---
+
+# 🤖 Models
+
+## Embedding Model
+
+```python
+openai/text-embedding-3-large
+```
+
+## LLM
+
+```python
+openai/gpt-4.1
+```
+
 
 # 🎯 Goal
 
