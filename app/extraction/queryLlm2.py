@@ -13,79 +13,88 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1"
 )
 
-LLM_MODEL = "openai/gpt-5.5-pro"
+LLM_MODEL = "openai/gpt-4.1-mini"
+
+MAX_CONTEXT_CHARS = 50000
+
 
 def extract_clinical_evidence(query, chunks):
-    print("here")
 
     context = ""
 
     for chunk in chunks:
-        print("chunkkkk")
 
         section = " > ".join(
             chunk.get("section_tree", [])
         )
 
+        chunk_text = chunk["text"][:2000]
+
         if chunk["is_table"]:
 
             context += f"""
 
-            [TABLE]
-            Paper: {chunk['paper_id']}
-            Section: {section}
+[TABLE]
+Paper: {chunk['paper_id']}
+Section: {section}
 
-            {chunk['text']}
+{chunk_text}
 
-            """
+"""
 
         else:
 
             context += f"""
 
-            [TEXT]
-            Paper: {chunk['paper_id']}
-            Section: {section}
+[TEXT]
+Paper: {chunk['paper_id']}
+Section: {section}
 
-            {chunk['text']}
+{chunk_text}
 
-        """
+"""
+
+    # hard limit
+    context = context[:MAX_CONTEXT_CHARS]
 
     user_prompt = f"""
-    User Query:
-    {query}
+User Query:
+{query}
 
-    Extract structured evidence relevant to the query.
+Extract structured clinical evidence.
 
-    Return JSON array format.
+Return ONLY valid JSON.
 
-    Schema:
+Schema:
 
-            [
-    {{
-        "study": "",
-        "population": "",
-        "sample_size": "",
-        "predictor": "",
-        "outcome": "",
-        "timing": "",
-        "method": "",
-        "effect_size": "",
-        "performance": "",
-        "notes": "",
-        "source_text": "",
-        "paper_id": "",
-        "section": ""
-    }}
-    ]
+[
+  {{
+    "study": "",
+    "population": "",
+    "sample_size": "",
+    "predictor": "",
+    "outcome": "",
+    "timing": "",
+    "method": "",
+    "effect_size": "",
+    "performance": "",
+    "notes": "",
+    "source_text": "",
+    "paper_id": "",
+    "section": ""
+  }}
+]
 
-    Context:
-    {context}
-    """
+Context:
+{context}
+"""
+
+    print("Sending request to LLM...")
 
     response = client.chat.completions.create(
         model=LLM_MODEL,
         temperature=0,
+        max_tokens=2500,
         messages=[
             {
                 "role": "system",
@@ -97,12 +106,20 @@ def extract_clinical_evidence(query, chunks):
             }
         ]
     )
-    print("done")
+
+    print("LLM response received")
+
     text = response.choices[0].message.content
 
     try:
-        return json.loads(text)
-        print("try")
 
-    except Exception:
+        parsed = json.loads(text)
+
+        return parsed
+
+    except Exception as e:
+
+        print("JSON parse error:", e)
+        print(text)
+
         return []
